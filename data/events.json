@@ -1,0 +1,4481 @@
+{
+ "meta": {
+  "generated": "2026-09-29",
+  "timezoneNote": "Times are local to Massachusetts (Eastern Time: EST, UTC-5, in January; EDT, UTC-4, in summer).",
+  "eventCount": 131
+ },
+ "events": [
+  {
+   "id": "mh-earlier-postpartum",
+   "datetime": "2019-10",
+   "precision": "approximate",
+   "timeNote": "Approximate: sources give no specific date.",
+   "title": "Postpartum anxiety after earlier births (background)",
+   "description": "The defense's position, stated in opening, is that she had postpartum symptoms after her second child and that this was significant because it can signal bipolar disorder (Reddington said an antidepressant like Zoloft in someone with bipolar disorder \"messes with your brain\"). Dr. Jennifer Tufts later testified Clancy reported trying Zoloft while postpartum with her second child. Exact dates are not established in the sources; placed approximately after Dawson's birth.",
+   "category": "medical-history",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "—",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    },
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-callan-birth",
+   "datetime": "2022-05-26",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Third child, Callan, is born",
+   "description": "Callan Clancy was born on May 26, 2022 (date as reported in the Wikipedia overview, citing trial coverage). Cora was born in December 2017 and Dawson in September 2019. Lindsay Clancy took maternity leave from her job as a labor and delivery nurse at Massachusetts General Hospital.",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Family home, Duxbury",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    },
+    {
+     "title": "Lindsay Clancy trial live recap of opening statements, ex on stand",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-opening-statements-live-updates/3987462/",
+     "outlet": "NBC10 Boston",
+     "date": "2026-07-27",
+     "key": "nbc_0727"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-tufts-start",
+   "datetime": "2022-09",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Begins telehealth psychiatric care with Dr. Jennifer Tufts",
+   "description": "Clancy began seeing psychiatrist Dr. Jennifer Tufts in September 2022. Tufts testified that anxiety was the main concern and that she recommended individual therapy and sertraline (Zoloft); Clancy was concerned about side effects and initially did not start it. The family's nanny began caring for Callan that month as Clancy prepared to return to work.",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Jennifer Tufts",
+   "location": "Telehealth",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-leave-msg",
+   "datetime": "2022-09-30",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Portal message asking to extend maternity leave",
+   "description": "A Sept. 30, 2022 patient-portal message read in court said she had asked her employer to extend leave for postpartum anxiety/depression: \"I don't feel mentally well enough to return to taking care of patients with a baby at home that still won't take the bottle.\"",
+   "category": "medical-history",
+   "pov": [
+    "evidence",
+    "lindsay"
+   ],
+   "status": "established fact",
+   "location": "Telehealth portal",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-zoloft",
+   "datetime": "2022-10",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Starts, then stops, Zoloft",
+   "description": "Per Tufts, Clancy began Zoloft after an early-October appointment, was \"feeling pretty poorly\" after starting it, and discontinued it. Patrick Clancy testified she took a total of seven pills of the Zoloft prescription before switching providers.",
+   "category": "medical-history",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "testimony by Dr. Jennifer Tufts / Patrick Clancy",
+   "location": "—",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-ativan",
+   "datetime": "2022-10-21",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Ativan prescribed for anxiety",
+   "description": "Tufts prescribed the lowest dose of Ativan on Oct. 21, 2022. On Oct. 26 Clancy reported less anxiety but continued insomnia and was using Benadryl to sleep; Buspar was suggested, but on Nov. 2 she said she had been \"too afraid to start a new medication.\" Tufts discussed tapering Ativan because of dependency risk.",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Jennifer Tufts",
+   "location": "Telehealth",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-phone-note",
+   "datetime": "2022-10-25",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Phone note: struggling to parent a third child",
+   "description": "A long note Clancy wrote on her phone on Oct. 25, 2022 was read to jurors by State Police Sgt. Timothy Chiappini: \"I'm sad and depressed because I am not able to parent my third child like my first.\" The note also said she wanted to feel love and connection with all her kids.",
+   "category": "medical-history",
+   "pov": [
+    "evidence",
+    "lindsay"
+   ],
+   "status": "established fact",
+   "location": "Phone note",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy Googled 'hallucinations' before killings",
+     "url": "https://www.bostonglobe.com/2026/08/13/metro/lindsay-clancy-searched-hallucinations/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-13",
+     "key": "globe_0813"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-searches"
+   ]
+  },
+  {
+   "id": "mh-nov-er",
+   "datetime": "2022-11-15",
+   "precision": "day",
+   "timeNote": null,
+   "title": "ER visit after going without sleep",
+   "description": "She sought emergency care on Nov. 15, 2022 after reportedly going two days without sleep; trazodone was prescribed. By mid-November her parents were visiting for days at a time to help. (Detail via the Wikipedia overview, which cites trial coverage.)",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Emergency room",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-journal-nov",
+   "datetime": "2022-11-18",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Journal entry about exhaustion",
+   "description": "In an entry dated Nov. 18, 2022, read in court: \"It's like I'm so desperate to get a mental break from taking care of everyone that my mind is trying to make something physically wrong with me.\"",
+   "category": "medical-history",
+   "pov": [
+    "evidence",
+    "lindsay"
+   ],
+   "status": "established fact",
+   "location": "Journal",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-journal"
+   ]
+  },
+  {
+   "id": "mh-perinatal",
+   "datetime": "2022-11-20",
+   "precision": "approximate",
+   "timeNote": "Approximate: around Nov. 20-22, 2022.",
+   "title": "Referred to a South Shore perinatal mental health clinic",
+   "description": "Susan Clancy (Patrick's mother, a nurse) testified she reached out to colleagues running a program for postpartum mothers and that Lindsay was \"begging for help.\" Tufts testified that by Nov. 22 Clancy had enrolled at a South Shore perinatal clinic and was going to start Prozac.",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Susan Clancy / Dr. Jennifer Tufts",
+   "location": "South Shore perinatal clinic",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Lindsay Clancy 'said that she heard a male voice ordering her ... to kill her children,' psychologist tells jurors",
+     "url": "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-that-she-heard-male-voice-ordering-herto-kill-her-children-psychologist-tells-jurors/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-18",
+     "key": "globe_0818"
+    },
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-seroquel",
+   "datetime": "2022-11-30",
+   "precision": "approximate",
+   "timeNote": "Approximate: late Nov./early Dec. 2022.",
+   "title": "Remeron and Seroquel prescribed by the perinatal clinic",
+   "description": "Around the start of December, the South Shore clinic had prescribed the antidepressant Remeron and the antipsychotic Seroquel (Tufts testimony about a Dec. 1 appointment). The Boston Globe's review of court records counted more than 30 prescriptions (13 psychiatric medications) from September 2022 to January 2023.",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "—",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Lindsay Clancy case: timeline of prescriptions",
+     "url": "https://www.bostonglobe.com/2026/07/27/metro/lindsay-clancy-timeline-medications-13/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-27",
+     "key": "globe_meds"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-meds"
+   ]
+  },
+  {
+   "id": "mh-big-spiral",
+   "datetime": "2022-12",
+   "precision": "month",
+   "timeNote": null,
+   "title": "December 'big spiral': suicidal statements, thoughts about the children",
+   "description": "Patrick Clancy testified that her \"big spiral\" began in December 2022: she said she was suicidal and had thoughts about harming the children. \"The way she was describing it was that something might happen to the kids.\" He said he was not concerned for the children's safety: \"She wasn't showing any intention of harming the kids.\" Her parents came to stay.",
+   "category": "medical-history",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy",
+   "location": "Family home",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-hotlines",
+   "datetime": "2022-12",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Two crisis-hotline calls around the holidays",
+   "description": "Defense witnesses testified that Clancy called a suicide/crisis hotline (ASPIRE) twice around the holidays in late 2022. The defense says she was \"turned away\"; the Wikipedia overview reports neither hotline intervened because she did not have a plan to harm herself.",
+   "category": "medical-history",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Phone",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy 'said that she heard a male voice ordering her ... to kill her children,' psychologist tells jurors",
+     "url": "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-that-she-heard-male-voice-ordering-herto-kill-her-children-psychologist-tells-jurors/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-18",
+     "key": "globe_0818"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-jollotta",
+   "datetime": "2022-12",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Nurse practitioner adjusts medications; bipolar disorder considered",
+   "description": "Psychiatric nurse practitioner Rebecca Jollotta testified that Patrick attended an appointment and spoke with her by phone: \"I believe he was concerned about her symptoms and he thought they started when she started being medicated.\" AP reported that one outpatient provider considered bipolar disorder in 2022, and that Clancy disagreed with that opinion at McLean.",
+   "category": "medical-history",
+   "pov": [],
+   "status": "testimony by Rebecca Jollotta",
+   "location": "South Shore perinatal clinic",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    },
+    {
+     "title": "Lindsay Clancy trial spotlights psychiatric hospital stay before she killed her 3 children (AP)",
+     "url": "https://www.pbs.org/newshour/nation/lindsay-clancy-trial-spotlights-psychiatric-hospital-stay-before-she-killed-her-3-children",
+     "outlet": "PBS News / Associated Press",
+     "date": "2026-08-07",
+     "key": "pbs_mclean"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-mother",
+   "datetime": "2022-12",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Mother recalls disclosure of fear of hurting the children",
+   "description": "Paula Musgrove testified her daughter sent texts asking her to stay the night and expressing concern about medications, and recalled a conversation in which Lindsay expressed a fear of hurting the children; Musgrove said she was not concerned because she was present.",
+   "category": "medical-history",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "testimony by Paula Musgrove",
+   "location": "Family home",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-dec-intrusive",
+   "datetime": "2022-12-01",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Reports intrusive thoughts on Remeron",
+   "description": "Tufts testified that on Dec. 1 Clancy reported intrusive thoughts on Remeron and wanted to stop it: \"She said it was a feeling like I am going to die.\" She denied suicidal ideation but said she was close to it. Tufts advised a single point of contact for medications after Clancy said she kept \"reaching out to different people.\"",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Jennifer Tufts",
+   "location": "Telehealth",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-dec-er",
+   "datetime": "2022-12-15",
+   "precision": "approximate",
+   "timeNote": "Date of ER visit approximate (reported at Dec. 16 appointment).",
+   "title": "ER visit for suicidal thoughts; declines inpatient care",
+   "description": "Tufts testified that at a Dec. 16 appointment Clancy said she had gone to the Mass General emergency room with suicidal ideation but declined inpatient treatment. Patrick testified providers recommended a postpartum program in Rhode Island. Lamictal (a mood stabilizer) was added around this time.",
+   "category": "medical-history",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "testimony by Dr. Jennifer Tufts / Patrick Clancy",
+   "location": "Massachusetts General Hospital ER",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-wi",
+   "datetime": "2022-12-20",
+   "precision": "approximate",
+   "timeNote": "Approximate: 'a few days before Christmas' 2022.",
+   "title": "One day at a Women & Infants (RI) postpartum day program",
+   "description": "Clancy joined a postpartum day program at Women & Infants Hospital of Rhode Island a few days before Christmas and was discharged after one day. The defense says the program indicated she was overmedicated; her civil complaint says the hospital ruled out postpartum depression and bipolar disorder based on an inadequate history.",
+   "category": "medical-history",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Women & Infants Hospital, Providence RI",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "'Go to God, baby': Lindsay Clancy files malpractice lawsuit, says she heard a voice ordering her to kill her children",
+     "url": "https://www.boston.com/news/crime/2026/01/27/lindsay-clancy-malpractice-lawsuit/",
+     "outlet": "Boston.com",
+     "date": "2026-01-27",
+     "key": "bcom_lawsuit"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    },
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-search-suicide",
+   "datetime": "2023-01",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Suicide-related searches (disputed characterization)",
+   "description": "Investigators testified about searches on suicide methods; a Wikipedia page on suicide methods was accessed on a household computer in Aug. 2022, though they could not say who searched. Reddington cited a defense phone extraction showing a search about \"how to slit your throat to die\" and asked prosecutors not to describe the searches as \"ways to kill\"; he characterized them as searches for suicide methods.",
+   "category": "investigation",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Phone / household computer",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy Googled 'hallucinations' before killings",
+     "url": "https://www.bostonglobe.com/2026/08/13/metro/lindsay-clancy-searched-hallucinations/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-13",
+     "key": "globe_0813"
+    },
+    {
+     "title": "Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings",
+     "url": "https://www.wbur.org/news/2026/07/29/lindsay-clancy-patrick-clancy-testimony-911-murder-trial",
+     "outlet": "WBUR",
+     "date": "2026-07-29",
+     "key": "wbur_0729"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-mclean-admit",
+   "datetime": "2023-01-01",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Voluntary admission to McLean Hospital",
+   "description": "After returning to the MGH emergency room on Dec. 31 with persistent suicidal thoughts, Clancy was admitted voluntarily to McLean Hospital (Belmont) early on New Year's Day 2023. McLean psychiatrist Dr. Alia Goodheart first saw her Jan. 3 and diagnosed \"major depressive disorder, severe without psychotic features,\" tapering an antipsychotic used for sleep.",
+   "category": "medical-history",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "McLean Hospital, Belmont",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Lindsay Clancy trial spotlights psychiatric hospital stay before she killed her 3 children (AP)",
+     "url": "https://www.pbs.org/newshour/nation/lindsay-clancy-trial-spotlights-psychiatric-hospital-stay-before-she-killed-her-3-children",
+     "outlet": "PBS News / Associated Press",
+     "date": "2026-08-07",
+     "key": "pbs_mclean"
+    },
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-mclean-discharge",
+   "datetime": "2023-01-05",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Discharged from McLean after about five days",
+   "description": "Goodheart testified Clancy reported she could sleep and was eager to be home for Cora's belated birthday party; she was discharged Jan. 5 with a two-week supply of Ativan and trazodone. \"She had never stated that she had any thoughts of harming anybody else.\" The defense emphasized the team did not speak with her prior outpatient clinicians; Goodheart said she had not treated postpartum psychosis.",
+   "category": "medical-history",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "testimony by Dr. Alia Goodheart",
+   "location": "McLean Hospital",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial spotlights psychiatric hospital stay before she killed her 3 children (AP)",
+     "url": "https://www.pbs.org/newshour/nation/lindsay-clancy-trial-spotlights-psychiatric-hospital-stay-before-she-killed-her-3-children",
+     "outlet": "PBS News / Associated Press",
+     "date": "2026-08-07",
+     "key": "pbs_mclean"
+    },
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-tufts-jan6",
+   "datetime": "2023-01-06",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Outpatient psychiatrist notes she is 'deteriorating'",
+   "description": "At a virtual appointment the day after discharge, Tufts noted Clancy appeared \"deteriorating\": \"She appeared a little bit worse.\" Further appointments followed Jan. 9, 16 and 23 with medication changes.",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Jennifer Tufts",
+   "location": "Telehealth",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Lindsay Clancy case: timeline of prescriptions",
+     "url": "https://www.bostonglobe.com/2026/07/27/metro/lindsay-clancy-timeline-medications-13/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-27",
+     "key": "globe_meds"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-cora-party",
+   "datetime": "2023-01-07",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Cora's belated birthday party",
+   "description": "Per 60 Minutes, Lindsay made it home in time to celebrate Cora's birthday on Jan. 7. Patrick testified she seemed \"much better\" after discharge (as reported by E! News citing CNN).",
+   "category": "medical-history",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy",
+   "location": "Family home",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-voice-complaint",
+   "datetime": "2023-01-12",
+   "precision": "approximate",
+   "timeNote": "Approximate: 'within a week' of Jan. 5 discharge, per complaint.",
+   "title": "Civil complaint: hallucinations returned within a week of discharge",
+   "description": "Her January 2026 malpractice complaint alleges auditory hallucinations for weeks before the killings, returning within a week of McLean discharge, including a voice saying \"You will never be the same. The only option is to die.\" Prosecutors dispute this: they emphasize she never told anyone she heard voices before Jan. 24 (see trial testimony).",
+   "category": "medical-history",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "—",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "'Go to God, baby': Lindsay Clancy files malpractice lawsuit, says she heard a voice ordering her to kill her children",
+     "url": "https://www.boston.com/news/crime/2026/01/27/lindsay-clancy-malpractice-lawsuit/",
+     "outlet": "Boston.com",
+     "date": "2026-01-27",
+     "key": "bcom_lawsuit"
+    },
+    {
+     "title": "'I'm so glad my children are safe,' Lindsay Clancy told chaplain after killing them",
+     "url": "https://www.bostonglobe.com/2026/08/20/metro/lindsay-clancy-children-safe-voices/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-20",
+     "key": "globe_0820"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-complaint"
+   ]
+  },
+  {
+   "id": "mh-texts-mother",
+   "datetime": "2023-01-14",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Texts with her mother: 'waiting for the day I wake up feeling like me'",
+   "description": "Texts read in court: on Jan. 10 she told her mother she was at the gym with her kids; on Jan. 12 her mother asked \"still feeling a little better?\" (reply: \"A little bit\"); on Jan. 14 she wrote \"...hanging in there and waiting for the day I wake up feeling like me.\"",
+   "category": "medical-history",
+   "pov": [
+    "evidence",
+    "lindsay"
+   ],
+   "status": "established fact",
+   "location": "Text messages",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy Googled 'hallucinations' before killings",
+     "url": "https://www.bostonglobe.com/2026/08/13/metro/lindsay-clancy-searched-hallucinations/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-13",
+     "key": "globe_0813"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-searches"
+   ]
+  },
+  {
+   "id": "mh-search-hallu",
+   "datetime": "2023-01-19T10:33-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Searches: 'schizophrenia' (8:58 a.m.), 'hallucinations' (10:33 a.m.)",
+   "description": "State Police Sgt. Timothy Chiappini testified the phone was used on Jan. 19 to look up schizophrenia at 8:58 a.m. and hallucinations at 10:33 a.m. The defense cites such searches as evidence of emerging psychosis.",
+   "category": "investigation",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Phone",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy Googled 'hallucinations' before killings",
+     "url": "https://www.bostonglobe.com/2026/08/13/metro/lindsay-clancy-searched-hallucinations/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-13",
+     "key": "globe_0813"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-searches"
+   ]
+  },
+  {
+   "id": "mh-search-sociopath",
+   "datetime": "2023-01-20T20:30-05:00",
+   "precision": "approximate",
+   "timeNote": "'Around 8:30 p.m.' per testimony.",
+   "title": "Search: 'Can you treat a sociopath?', then psychosis (~10 min later)",
+   "description": "Four days before the killings, at around 8:30 p.m., the phone searched \"Can you treat a sociopath?\" (prosecution direct); on cross, Chiappini confirmed a search about psychosis about 10 minutes later. A search about benzo withdrawal was also made Jan. 20. Her complaint says she researched whether she was a psychopath.",
+   "category": "investigation",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Phone",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy Googled 'hallucinations' before killings",
+     "url": "https://www.bostonglobe.com/2026/08/13/metro/lindsay-clancy-searched-hallucinations/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-13",
+     "key": "globe_0813"
+    },
+    {
+     "title": "'Go to God, baby': Lindsay Clancy files malpractice lawsuit, says she heard a voice ordering her to kill her children",
+     "url": "https://www.boston.com/news/crime/2026/01/27/lindsay-clancy-malpractice-lawsuit/",
+     "outlet": "Boston.com",
+     "date": "2026-01-27",
+     "key": "bcom_lawsuit"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "mh-tufts-jan23",
+   "datetime": "2023-01-23",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Last psychiatric appointment, the day before",
+   "description": "Tufts testified that on Jan. 23 Clancy reported \"no motivation, numb\" and said she had to force herself out of bed; she denied suicidal or homicidal ideation. \"There were no signs of psychosis or mania.\" Tufts did not recommend hospitalization.",
+   "category": "medical-history",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Jennifer Tufts",
+   "location": "Telehealth",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-pediatric",
+   "datetime": "2023-01-24T09:00-05:00",
+   "precision": "approximate",
+   "timeNote": "Time unknown; 'morning'.",
+   "title": "Morning pediatrician visit with Cora",
+   "description": "Clancy took 5-year-old Cora to a pediatric appointment (Patrick testified she had become preoccupied with Cora's stomachache, per the Wikipedia overview). At arraignment prosecutors said the receptionist, nurses and doctor noticed no issues. Exact time not given in sources.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Pediatrician's office (off-site)",
+   "scene": "offsite",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-best-day",
+   "datetime": "2023-01-24T12:00-05:00",
+   "precision": "approximate",
+   "timeNote": "Time approximate (during the day).",
+   "title": "Patrick: 'having one of her best days'",
+   "description": "Patrick, working from his basement home office, testified they exchanged photos of the children that day, including Dawson, who had dressed himself for the first time, and that Lindsay seemed happy, \"having one of her best days.\"",
+   "category": "day-of",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy",
+   "location": "Basement office",
+   "scene": "basement-office",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    },
+    {
+     "title": "Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings",
+     "url": "https://www.wbur.org/news/2026/07/29/lindsay-clancy-patrick-clancy-testimony-911-murder-trial",
+     "outlet": "WBUR",
+     "date": "2026-07-29",
+     "key": "wbur_0729"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-snowman",
+   "datetime": "2023-01-24T14:00-05:00",
+   "precision": "approximate",
+   "timeNote": "Time approximate (afternoon).",
+   "title": "Snowman with the children in the backyard",
+   "description": "Prosecutors said she went outside with Cora and Dawson, built a snowman and texted photos to her mother and husband with no sign of distress. WBUR reports the snowman was built in the backyard while Patrick worked in the basement office.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Backyard",
+   "scene": "backyard",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings",
+     "url": "https://www.wbur.org/news/2026/07/29/lindsay-clancy-patrick-clancy-testimony-911-murder-trial",
+     "outlet": "WBUR",
+     "date": "2026-07-29",
+     "key": "wbur_0729"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-voice-afternoon",
+   "datetime": "2023-01-24T15:45-05:00",
+   "precision": "approximate",
+   "timeNote": "'Late afternoon' per Mack; exact time unknown.",
+   "title": "Her account: a loud male voice in the late afternoon",
+   "description": "Prosecution rebuttal psychiatrist Dr. Avram Mack testified Clancy told him she heard a loud male voice in the late afternoon, saying \"to the effect of, 'you should kill the kids, this is your last chance so that you can kill yourself.'\" Her complaint says hallucinations and suicidal thoughts continued \"nonstop\" in the hours before. Prosecution experts said a single-occasion voice was unusual and that her accounts varied.",
+   "category": "day-of",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Main floor (location not established)",
+   "scene": "living",
+   "sources": [
+    {
+     "title": "Lindsay Clancy told children \"go to God\" during murders, prosecution psychiatrist says at trial",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-18-dr-phillip-resnick/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-21",
+     "key": "cbs_day18"
+    },
+    {
+     "title": "'Go to God, baby': Lindsay Clancy files malpractice lawsuit, says she heard a voice ordering her to kill her children",
+     "url": "https://www.boston.com/news/crime/2026/01/27/lindsay-clancy-malpractice-lawsuit/",
+     "outlet": "Boston.com",
+     "date": "2026-01-27",
+     "key": "bcom_lawsuit"
+    },
+    {
+     "title": "Expert witnesses challenge claim that Lindsay Clancy experienced psychosis",
+     "url": "https://www.theguardian.com/us-news/2026/aug/25/lindsay-clancy-trial-testimonies-latest",
+     "outlet": "The Guardian",
+     "date": "2026-08-25",
+     "key": "guardian_0825"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-search-miralax",
+   "datetime": "2023-01-24T16:02-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Search: 'kids Miralax'",
+   "description": "The phone searched \"kids Miralax\" at 4:02 p.m. (prosecution timeline at arraignment; digital-forensics testimony also cited \"Kids miralax\" and \"CVS pharmacy\" searches that day). Prosecutors cast this as the start of a plan; the defense disputes that inference.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Phone (room not established)",
+   "scene": "kitchen",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-search-threev",
+   "datetime": "2023-01-24T16:13-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Search: takeout from ThreeV; Apple Maps drive time",
+   "description": "At 4:13 p.m. she searched for takeout from ThreeV, a restaurant in Plymouth, then used Apple Maps to check the drive time. In closing, prosecutor Jennifer Sprague cited this as evidence of planning.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Phone (room not established)",
+   "scene": "kitchen",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-cvs-call",
+   "datetime": "2023-01-24T16:47-05:00",
+   "precision": "exact",
+   "timeNote": "4:47 p.m. per arraignment timeline; 4:48 per another report.",
+   "title": "Phone call to the Kingston CVS",
+   "description": "She called the Kingston CVS asking about kids' Miralax; the manager said it was out of stock but similar products were available. Manager Angela Krause testified it was a \"normal interaction.\" (Oxygen reports 4:48 p.m.)",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Phone (room not established)",
+   "scene": "kitchen",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-29-2026/73285962",
+     "outlet": "WCVB",
+     "date": "2026-07-29",
+     "key": "wcvb_0729"
+    },
+    {
+     "title": "Lindsay Clancy Trial Timeline: Her, Patrick Clancy's Day Before Kids Killed",
+     "url": "https://www.oxygen.com/crime-news/lindsay-clancy-trial-timeline-her-patrick-clancys-day-before-kids-killed",
+     "outlet": "Oxygen",
+     "date": "2026-08",
+     "key": "oxygen"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-text-takeout",
+   "datetime": "2023-01-24T16:53-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Text to Patrick: takeout from ThreeV?",
+   "description": "Text read in court: \"Any chance you want to do take out from ThreeV\" … \"I didn't cook anything. It's been a long day.\" Patrick replied yes; she wrote \"Okie dokie, check the menu when you can.\" He asked if Callan was up from his nap: \"It was just a short nap.\" Prosecutors said ThreeV was farther than their usual takeout.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Text messages (Patrick in basement office)",
+   "scene": "basement-office",
+   "sources": [
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    },
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-texts"
+   ]
+  },
+  {
+   "id": "d-order-choices",
+   "datetime": "2023-01-24T17:06-05:00",
+   "precision": "exact",
+   "timeNote": "5:06 per arraignment timeline; 5:07 per texts read at trial.",
+   "title": "Dinner choices exchanged by text",
+   "description": "At about 5:06-5:07 p.m. she said she'd have a Mediterranean Power Bowl; a minute later he chose a scallop and pork belly risotto.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Text messages",
+   "scene": "kitchen",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-texts"
+   ]
+  },
+  {
+   "id": "d-threev-call",
+   "datetime": "2023-01-24T17:10-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Order phoned in to ThreeV",
+   "description": "She called ThreeV and placed the order. Hostess Saria Shelgren testified she had no trouble understanding the caller and it was a normal interaction.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Phone",
+   "scene": "kitchen",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-29-2026/73285962",
+     "outlet": "WCVB",
+     "date": "2026-07-29",
+     "key": "wcvb_0729"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-last-unlock",
+   "datetime": "2023-01-24T17:13-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Phone last unlocked",
+   "description": "Digital forensics expert Ian Whiffin testified her phone was last unlocked at 5:13 p.m.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Phone",
+   "scene": "kitchen",
+   "sources": [
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-texts"
+   ]
+  },
+  {
+   "id": "d-patrick-leaves",
+   "datetime": "2023-01-24T17:15-05:00",
+   "precision": "approximate",
+   "timeNote": "'About 5:15 p.m.' per prosecutors.",
+   "title": "Patrick leaves on the errands",
+   "description": "Patrick left around 5:15 p.m. to pick up dinner and medicine for Cora. He testified his last memory of the children was Dawson on the couch eating chicken nuggets and green beans (per AP, via Oxygen), and that he kissed one of the children on the head and said he'd \"be right back\" (E! citing CNN). Prosecutors call the errands a ruse to get him out of the house; the defense disputes that the evening was planned.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy",
+   "location": "Living room, front door, driveway",
+   "scene": "entry",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy Trial Timeline: Her, Patrick Clancy's Day Before Kids Killed",
+     "url": "https://www.oxygen.com/crime-news/lindsay-clancy-trial-timeline-her-patrick-clancys-day-before-kids-killed",
+     "outlet": "Oxygen",
+     "date": "2026-08",
+     "key": "oxygen"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    },
+    {
+     "title": "Jurors in Lindsay Clancy's trial visit the home where she killed her children (AP)",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-duxbury-house-jury-visit/3990184/",
+     "outlet": "NBC10 Boston / Associated Press",
+     "date": "2026-07-31",
+     "key": "nbc_view"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-pedialax-text",
+   "datetime": "2023-01-24T17:16-05:00",
+   "precision": "approximate",
+   "timeNote": "'A short time later'; exact minute not reported.",
+   "title": "Text: 'Pedia-Lax liquid stool softener'",
+   "description": "A short time after he left, she texted \"Pedia-Lax liquid stool softener.\"",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Text message",
+   "scene": "living",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-voice-loud",
+   "datetime": "2023-01-24T17:17-05:00",
+   "precision": "approximate",
+   "timeNote": "Approximate: 'after her husband left'.",
+   "title": "Her account: after he left, the voice became loud and demanding",
+   "description": "Per her civil complaint and the defense opening, after Patrick left the voice said: \"This is your last chance. Kill the children so you can kill yourself.\" Resnick testified she described a \"command hallucination.\" The prosecution disputes that a voice drove her actions, noting she reported it only after the killings.",
+   "category": "day-of",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Main floor (location not established)",
+   "scene": "living",
+   "sources": [
+    {
+     "title": "'Go to God, baby': Lindsay Clancy files malpractice lawsuit, says she heard a voice ordering her to kill her children",
+     "url": "https://www.boston.com/news/crime/2026/01/27/lindsay-clancy-malpractice-lawsuit/",
+     "outlet": "Boston.com",
+     "date": "2026-01-27",
+     "key": "bcom_lawsuit"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    },
+    {
+     "title": "Lindsay Clancy told children \"go to God\" during murders, prosecution psychiatrist says at trial",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-18-dr-phillip-resnick/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-21",
+     "key": "cbs_day18"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-complaint"
+   ]
+  },
+  {
+   "id": "d-basement-account",
+   "datetime": "2023-01-24T17:20-05:00",
+   "precision": "approximate",
+   "timeNote": "Exact time not established; see competing timing claims.",
+   "title": "Her account: a 'dream-like state' in the basement",
+   "description": "The complaint says she entered a dissociative \"dream-like state\" and \"lost all control\" as the children died in the basement; she described saying \"go to God\" (also reported by Dr. Mack). Resnick: \"It was almost like she was a puppet and someone else was pulling the strings.\" The defense did not contest at trial that she caused the children's deaths; her mental state was the dispute.",
+   "category": "day-of",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Basement",
+   "scene": "basement-den",
+   "sources": [
+    {
+     "title": "'Go to God, baby': Lindsay Clancy files malpractice lawsuit, says she heard a voice ordering her to kill her children",
+     "url": "https://www.boston.com/news/crime/2026/01/27/lindsay-clancy-malpractice-lawsuit/",
+     "outlet": "Boston.com",
+     "date": "2026-01-27",
+     "key": "bcom_lawsuit"
+    },
+    {
+     "title": "Lindsay Clancy told children \"go to God\" during murders, prosecution psychiatrist says at trial",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-18-dr-phillip-resnick/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-21",
+     "key": "cbs_day18"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [
+    "d-pros-timing"
+   ],
+   "media": [
+    "m-complaint"
+   ]
+  },
+  {
+   "id": "d-watch-stops",
+   "datetime": "2023-01-24T17:23-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Apple Watch stops recording",
+   "description": "On cross-examination the defense noted her Apple Watch stopped recording at 5:23 p.m. Her last recorded heart rate was 57 bpm (Whiffin).",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "—",
+   "scene": "living",
+   "sources": [
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-pros-timing",
+   "datetime": "2023-01-24T17:25-05:00",
+   "precision": "approximate",
+   "timeNote": "A prosecution inference, not a recorded time.",
+   "title": "Prosecution: the children were killed before the 5:33 call",
+   "description": "Sprague argued that when Patrick called at 5:33 p.m., \"she had already strangled them,\" citing phone data that showed the phone going upstairs about three minutes after the call ended. Prosecutors also argued the voice gave no direction, so she chose the place, method and means.",
+   "category": "day-of",
+   "pov": [],
+   "status": "prosecution claim",
+   "location": "Basement",
+   "scene": "basement-den",
+   "sources": [
+    {
+     "title": "Lindsay Clancy jury heard conflicting accounts of key evidence. Here are 4 inconsistencies",
+     "url": "https://www.ctinsider.com/news/article/lindsay-clancy-trial-evidence-inconsistencies-22407714.php",
+     "outlet": "CT Insider",
+     "date": "2026-08-30",
+     "key": "ct_incons"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [
+    "d-def-phone"
+   ],
+   "media": []
+  },
+  {
+   "id": "d-cvs",
+   "datetime": "2023-01-24T17:32-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Patrick on CVS surveillance in Kingston",
+   "description": "Surveillance showed Patrick at the Kingston CVS at 5:32 p.m., going to the children's medicine aisle. (Distance from the home is reported differently: about a mile (AP) vs. a little over 2 miles (Oxygen).)",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "CVS, Kingston (off-site)",
+   "scene": "cvs",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy Trial Timeline: Her, Patrick Clancy's Day Before Kids Killed",
+     "url": "https://www.oxygen.com/crime-news/lindsay-clancy-trial-timeline-her-patrick-clancys-day-before-kids-killed",
+     "outlet": "Oxygen",
+     "date": "2026-08",
+     "key": "oxygen"
+    },
+    {
+     "title": "Jurors in Lindsay Clancy's trial visit the home where she killed her children (AP)",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-duxbury-house-jury-visit/3990184/",
+     "outlet": "NBC10 Boston / Associated Press",
+     "date": "2026-07-31",
+     "key": "nbc_view"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-call-533",
+   "datetime": "2023-01-24T17:33-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Patrick calls Lindsay; no answer",
+   "description": "Phone records show Patrick called her at 5:33 p.m.; the call was not answered.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "CVS (Patrick) / home (Lindsay)",
+   "scene": "cvs",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-call-534",
+   "datetime": "2023-01-24T17:34-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "She calls back: 14 seconds, from the lock screen",
+   "description": "She called back at 5:34 p.m.; the 14-second call was about which medication to buy. Whiffin said it was likely placed from the locked screen. Prosecutors said Patrick called it \"completely normal\" but later said she seemed to be in the middle of something.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "CVS (Patrick) / home (Lindsay)",
+   "scene": "cvs",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-stairs",
+   "datetime": "2023-01-24T17:36-05:00",
+   "precision": "approximate",
+   "timeNote": "Approximate and inconsistent across reports; shown here at ~5:36 p.m.",
+   "title": "Phone health data: stair-climbing events (times reported inconsistently)",
+   "description": "Apple Health data recorded stair climbing. Reports differ: E! News reported flights at 5:03 and 5:33 p.m.; CT Insider reported the prosecution said the phone went upstairs about three minutes after the 5:34 call ended. The defense challenged the data's reliability.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Main stairs (inferred)",
+   "scene": "stairs-main",
+   "sources": [
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    },
+    {
+     "title": "Lindsay Clancy jury heard conflicting accounts of key evidence. Here are 4 inconsistencies",
+     "url": "https://www.ctinsider.com/news/article/lindsay-clancy-trial-evidence-inconsistencies-22407714.php",
+     "outlet": "CT Insider",
+     "date": "2026-08-30",
+     "key": "ct_incons"
+    }
+   ],
+   "related": [
+    "d-def-phone",
+    "d-pros-timing"
+   ],
+   "media": [
+    "m-texts"
+   ]
+  },
+  {
+   "id": "d-cvs-leave",
+   "datetime": "2023-01-24T17:37-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Patrick leaves CVS",
+   "description": "He left CVS at 5:37 p.m. after buying Pedia-Lax and a package of Skittles (CVS manager's testimony, via Oxygen).",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "CVS, then road to Plymouth",
+   "scene": "road",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy Trial Timeline: Her, Patrick Clancy's Day Before Kids Killed",
+     "url": "https://www.oxygen.com/crime-news/lindsay-clancy-trial-timeline-her-patrick-clancys-day-before-kids-killed",
+     "outlet": "Oxygen",
+     "date": "2026-08",
+     "key": "oxygen"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-def-phone",
+   "datetime": "2023-01-24T17:38-05:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Defense: the phone could have been left in the bedroom",
+   "description": "Reddington told jurors the phone may simply have been left upstairs: \"Was it left on the bed and left there for 20 minutes?\" In his view the data does not show where she was.",
+   "category": "day-of",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Bedroom (second floor)",
+   "scene": "bedroom",
+   "sources": [
+    {
+     "title": "Lindsay Clancy jury heard conflicting accounts of key evidence. Here are 4 inconsistencies",
+     "url": "https://www.ctinsider.com/news/article/lindsay-clancy-trial-evidence-inconsistencies-22407714.php",
+     "outlet": "CT Insider",
+     "date": "2026-08-30",
+     "key": "ct_incons"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-phone-stops",
+   "datetime": "2023-01-24T17:38-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Phone stops recording motion data",
+   "description": "The defense noted the phone stopped recording motion/health data at 5:38 p.m.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "—",
+   "scene": "stairs-main",
+   "sources": [
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-bedroom-evidence",
+   "datetime": "2023-01-24T17:45-05:00",
+   "precision": "approximate",
+   "timeNote": "Time unknown; between about 5:38 and 6:09 p.m.",
+   "title": "Bedroom: self-inflicted wounds (time unknown)",
+   "description": "It is undisputed she cut her wrists and neck in the second-floor bedroom. Duxbury Det. Marcanthony Maffeo testified to blood along the edge of the bed, furniture and wall, on the windowsill, the window ledge and two shingles below. A knife was recovered; investigators could not obtain usable fingerprints from it or the bands (via Wikipedia).",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Primary bedroom (second floor)",
+   "scene": "bedroom",
+   "sources": [
+    {
+     "title": "Duxbury detective, ER doctors testify in Lindsay Clancy trial after jurors view home where children were killed",
+     "url": "https://www.bostonglobe.com/2026/07/31/metro/lindsay-clancy-trial-jurors-visit-duxbury-home/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-31",
+     "key": "globe_0731"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [
+    "d-wounds-def",
+    "d-wounds-pros"
+   ],
+   "media": []
+  },
+  {
+   "id": "d-wounds-def",
+   "datetime": "2023-01-24T17:46-05:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Defense: wounds show a genuine suicide attempt",
+   "description": "Defense forensic pathologist Dr. Elizabeth Laposata testified the injuries included \"hesitation marks,\" a \"classic finding in suicide attempts,\" and caused \"significant bloodshed.\" The defense argued the cold and dark may explain the limited bleeding responders saw.",
+   "category": "day-of",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Primary bedroom",
+   "scene": "bedroom",
+   "sources": [
+    {
+     "title": "Lindsay Clancy 'said that she heard a male voice ordering her ... to kill her children,' psychologist tells jurors",
+     "url": "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-that-she-heard-male-voice-ordering-herto-kill-her-children-psychologist-tells-jurors/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-18",
+     "key": "globe_0818"
+    },
+    {
+     "title": "'It turned very chaotic very quickly': Duxbury first responders testify in Lindsay Clancy's murder trial",
+     "url": "https://www.bostonglobe.com/2026/07/30/metro/clancy-trial-first-responders/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-30",
+     "key": "globe_0730"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-wounds-pros",
+   "datetime": "2023-01-24T17:47-05:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Prosecution: wounds were superficial",
+   "description": "Prosecutors highlighted responders' testimony that the wounds were not bleeding heavily and suggested wrist wounds were not sutured until the next day and the neck wound never needed sutures. In closing, however, Sprague said there was no dispute she tried to kill herself (via Wikipedia).",
+   "category": "day-of",
+   "pov": [],
+   "status": "prosecution claim",
+   "location": "Primary bedroom",
+   "scene": "bedroom",
+   "sources": [
+    {
+     "title": "'It turned very chaotic very quickly': Duxbury first responders testify in Lindsay Clancy's murder trial",
+     "url": "https://www.bostonglobe.com/2026/07/30/metro/clancy-trial-first-responders/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-30",
+     "key": "globe_0730"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-screen",
+   "datetime": "2023-01-24T17:50-05:00",
+   "precision": "approximate",
+   "timeNote": "Time unknown.",
+   "title": "Window screen found pushed up, not cut",
+   "description": "An evidence photo shows the bedroom window screen was pushed upward, not slashed. Prosecution psychiatrist Dr. Gregory Saathoff testified Clancy told him she slashed the screen with a knife.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Bedroom rear window",
+   "scene": "bedroom-window",
+   "sources": [
+    {
+     "title": "Lindsay Clancy jury heard conflicting accounts of key evidence. Here are 4 inconsistencies",
+     "url": "https://www.ctinsider.com/news/article/lindsay-clancy-trial-evidence-inconsistencies-22407714.php",
+     "outlet": "CT Insider",
+     "date": "2026-08-30",
+     "key": "ct_incons"
+    }
+   ],
+   "related": [
+    "d-screen-def"
+   ],
+   "media": []
+  },
+  {
+   "id": "d-screen-def",
+   "datetime": "2023-01-24T17:51-05:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Defense: memory of slashing the screen was a delusion",
+   "description": "\"She was in a psychosis when she thought that,\" Reddington told the jury about her recollection that she cut the screen.",
+   "category": "day-of",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Bedroom rear window",
+   "scene": "bedroom-window",
+   "sources": [
+    {
+     "title": "Lindsay Clancy jury heard conflicting accounts of key evidence. Here are 4 inconsistencies",
+     "url": "https://www.ctinsider.com/news/article/lindsay-clancy-trial-evidence-inconsistencies-22407714.php",
+     "outlet": "CT Insider",
+     "date": "2026-08-30",
+     "key": "ct_incons"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-threev",
+   "datetime": "2023-01-24T17:54-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Patrick picks up takeout at ThreeV",
+   "description": "Per the prosecution timeline at arraignment, Patrick picked up the takeout order at ThreeV in Plymouth at 5:54 p.m.; surveillance footage from the stop was shown to jurors at trial. He then drove home.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "ThreeV Restaurant, Plymouth (off-site)",
+   "scene": "threev",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy Trial Timeline: Her, Patrick Clancy's Day Before Kids Killed",
+     "url": "https://www.oxygen.com/crime-news/lindsay-clancy-trial-timeline-her-patrick-clancys-day-before-kids-killed",
+     "outlet": "Oxygen",
+     "date": "2026-08",
+     "key": "oxygen"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-jump",
+   "datetime": "2023-01-24T17:55-05:00",
+   "precision": "approximate",
+   "timeNote": "Time unknown; before 6:09 p.m.",
+   "title": "Fall from the second-floor window",
+   "description": "She went out the second-floor bedroom window and landed in the backyard, suffering spinal injuries that left her paralyzed from the waist down. Laposata (defense) said the spinal injury was consistent with a headfirst landing; prosecutors suggested she clung to the sill before falling.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "lindsay"
+   ],
+   "status": "established fact",
+   "location": "Rear window to backyard",
+   "scene": "backyard",
+   "sources": [
+    {
+     "title": "Lindsay Clancy 'said that she heard a male voice ordering her ... to kill her children,' psychologist tells jurors",
+     "url": "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-that-she-heard-male-voice-ordering-herto-kill-her-children-psychologist-tells-jurors/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-18",
+     "key": "globe_0818"
+    },
+    {
+     "title": "Duxbury detective, ER doctors testify in Lindsay Clancy trial after jurors view home where children were killed",
+     "url": "https://www.bostonglobe.com/2026/07/31/metro/lindsay-clancy-trial-jurors-visit-duxbury-home/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-31",
+     "key": "globe_0731"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-home",
+   "datetime": "2023-01-24T18:09-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Patrick returns: the house is quiet",
+   "description": "Patrick arrived home at about 6:09 p.m.; he testified \"the house was really quiet.\" Phone records show an unanswered call from him to her phone at 6:09 p.m. He called down to the basement.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy",
+   "location": "Driveway, front door",
+   "scene": "entry",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    },
+    {
+     "title": "Lindsay Clancy jury heard conflicting accounts of key evidence. Here are 4 inconsistencies",
+     "url": "https://www.ctinsider.com/news/article/lindsay-clancy-trial-evidence-inconsistencies-22407714.php",
+     "outlet": "CT Insider",
+     "date": "2026-08-30",
+     "key": "ct_incons"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-locked",
+   "datetime": "2023-01-24T18:10-05:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Bedroom door locked; blood and an open window",
+   "description": "He found the bedroom door locked and \"knew something was wrong.\" Once inside he \"saw blood everywhere, and the window was open.\"",
+   "category": "day-of",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy",
+   "location": "Primary bedroom",
+   "scene": "bedroom",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-29-2026/73285962",
+     "outlet": "WCVB",
+     "date": "2026-07-29",
+     "key": "wcvb_0729"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-yard",
+   "datetime": "2023-01-24T18:10-05:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "He finds her in the backyard",
+   "description": "He ran outside and found her \"face up\" in the yard: \"She had deep cuts on her wrists. She had a red line across her neck.\" He testified she said \"I tried to kill myself\" and that the children were in the basement, without indicating they were hurt.",
+   "category": "day-of",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy",
+   "location": "Backyard, below bedroom window",
+   "scene": "backyard",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-29-2026/73285962",
+     "outlet": "WCVB",
+     "date": "2026-07-29",
+     "key": "wcvb_0729"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    },
+    {
+     "title": "Lindsay Clancy jury heard conflicting accounts of key evidence. Here are 4 inconsistencies",
+     "url": "https://www.ctinsider.com/news/article/lindsay-clancy-trial-evidence-inconsistencies-22407714.php",
+     "outlet": "CT Insider",
+     "date": "2026-08-30",
+     "key": "ct_incons"
+    }
+   ],
+   "related": [
+    "d-yard-def"
+   ],
+   "media": []
+  },
+  {
+   "id": "d-yard-def",
+   "datetime": "2023-01-24T18:10-05:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Defense: that conversation could not have happened",
+   "description": "Reddington argued her injuries made such a conversation impossible and pointed jurors to the 911 recording, on which her words are unclear. Prosecutors said Patrick could understand her and relayed her answers to the dispatcher.",
+   "category": "day-of",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Backyard",
+   "scene": "backyard",
+   "sources": [
+    {
+     "title": "Lindsay Clancy jury heard conflicting accounts of key evidence. Here are 4 inconsistencies",
+     "url": "https://www.ctinsider.com/news/article/lindsay-clancy-trial-evidence-inconsistencies-22407714.php",
+     "outlet": "CT Insider",
+     "date": "2026-08-30",
+     "key": "ct_incons"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-911",
+   "datetime": "2023-01-24T18:11-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "911 call (about seven minutes)",
+   "description": "Duxbury Police received the 911 call at approximately 6:11 p.m. On the seven-minute recording Patrick is heard telling her to \"wake up\"; she moans and struggles to speak. After paramedics arrived he went inside and was heard screaming \"She killed the kids.\" A judge barred public release of the recording.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Backyard, then house",
+   "scene": "backyard",
+   "sources": [
+    {
+     "title": "Duxbury Woman Arraigned On Charges That She Murdered Her Three Children (press release)",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-on-charges-that-she-murdered-her-three-children/",
+     "outlet": "Plymouth County District Attorney's Office",
+     "date": "2023-10-26",
+     "key": "da_1026"
+    },
+    {
+     "title": "Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings",
+     "url": "https://www.wbur.org/news/2026/07/29/lindsay-clancy-patrick-clancy-testimony-911-murder-trial",
+     "outlet": "WBUR",
+     "date": "2026-07-29",
+     "key": "wbur_0729"
+    },
+    {
+     "title": "Lindsay Clancy judge bars media from posting audio of husband's 911 call, autopsy photos of children",
+     "url": "https://www.bostonglobe.com/2026/07/24/metro/lindsay-clancy-911-call-photos/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-24",
+     "key": "globe_911rule"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-911-coverage",
+    "m-patrick-day2",
+    "m-da-release"
+   ]
+  },
+  {
+   "id": "d-responders",
+   "datetime": "2023-01-24T18:15-05:00",
+   "precision": "approximate",
+   "timeNote": "Arrival minute not reported in sources.",
+   "title": "First responders arrive",
+   "description": "Duxbury Officer Stephen Hall heard a man calling for help from the backyard and found Lindsay with cuts to her wrists and neck, then heard a loud scream from inside. Fire Capt. PJ Hussey issued an \"all call\"; the scene \"turned very chaotic very quickly.\"",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Duxbury first responders",
+   "location": "Backyard",
+   "scene": "backyard",
+   "sources": [
+    {
+     "title": "'It turned very chaotic very quickly': Duxbury first responders testify in Lindsay Clancy's murder trial",
+     "url": "https://www.bostonglobe.com/2026/07/30/metro/clancy-trial-first-responders/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-30",
+     "key": "globe_0730"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-basement",
+   "datetime": "2023-01-24T18:16-05:00",
+   "precision": "approximate",
+   "timeNote": "Minute not reported; during the 911 call.",
+   "title": "The children are found in the basement",
+   "description": "Patrick found Cora and Callan on the floor of the finished basement's den and Dawson alone in his basement office, each with an exercise band around the neck. He removed the bands and tried to help them. Officers carried Dawson out to EMTs; responders performed CPR on Cora and Callan.",
+   "category": "day-of",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Basement den and office",
+   "scene": "basement-den",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    },
+    {
+     "title": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-29-2026/73285962",
+     "outlet": "WCVB",
+     "date": "2026-07-29",
+     "key": "wcvb_0729"
+    },
+    {
+     "title": "'It turned very chaotic very quickly': Duxbury first responders testify in Lindsay Clancy's murder trial",
+     "url": "https://www.bostonglobe.com/2026/07/30/metro/clancy-trial-first-responders/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-30",
+     "key": "globe_0730"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-patrick-distress",
+   "datetime": "2023-01-24T18:25-05:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Patrick in shock; ambulance requested for him",
+   "description": "Officer Brian Josephine said Patrick was \"frantic, kind of in shock\" upstairs, and responders requested an ambulance for him as well.",
+   "category": "day-of",
+   "pov": [
+    "patrick",
+    "evidence"
+   ],
+   "status": "testimony by Officer Brian Josephine",
+   "location": "Main floor",
+   "scene": "living",
+   "sources": [
+    {
+     "title": "'It turned very chaotic very quickly': Duxbury first responders testify in Lindsay Clancy's murder trial",
+     "url": "https://www.bostonglobe.com/2026/07/30/metro/clancy-trial-first-responders/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-30",
+     "key": "globe_0730"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-transport",
+   "datetime": "2023-01-24T18:40-05:00",
+   "precision": "approximate",
+   "timeNote": "Departure times not reported.",
+   "title": "Transport: children to BID-Plymouth; Lindsay to South Shore Hospital",
+   "description": "Cora and Dawson were taken to Beth Israel Deaconess Hospital-Plymouth and pronounced dead there; Callan regained a heartbeat about 10 minutes after arrival and was flown to Boston Children's Hospital. Lindsay went to South Shore Hospital, then to the Brigham and Women's ICU (arriving early Jan. 25).",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Hospitals (off-site)",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Duxbury Woman Arraigned On Charges That She Murdered Her Three Children (press release)",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-on-charges-that-she-murdered-her-three-children/",
+     "outlet": "Plymouth County District Attorney's Office",
+     "date": "2023-10-26",
+     "key": "da_1026"
+    },
+    {
+     "title": "Duxbury detective, ER doctors testify in Lindsay Clancy trial after jurors view home where children were killed",
+     "url": "https://www.bostonglobe.com/2026/07/31/metro/lindsay-clancy-trial-jurors-visit-duxbury-home/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-31",
+     "key": "globe_0731"
+    },
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-dawson-728",
+   "datetime": "2023-01-24T19:28-05:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Dawson declared dead at 7:28 p.m.",
+   "description": "Emergency physician Dr. Mark Tenerowicz testified resuscitation efforts continued about 40 minutes at the hospital; Dawson was declared dead at 7:28 p.m.",
+   "category": "day-of",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Beth Israel Deaconess Hospital-Plymouth",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Duxbury detective, ER doctors testify in Lindsay Clancy trial after jurors view home where children were killed",
+     "url": "https://www.bostonglobe.com/2026/07/31/metro/lindsay-clancy-trial-jurors-visit-duxbury-home/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-31",
+     "key": "globe_0731"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-toxicology",
+   "datetime": "2023-01-24T20:00-05:00",
+   "precision": "approximate",
+   "timeNote": "Blood drawn at hospital that night; time approximate.",
+   "title": "Toxicology on her blood sample",
+   "description": "Toxicologist Dr. Justin Brower testified the medications found (including mirtazapine, lamotrigine, trazodone and quetiapine) were not at toxic levels and were \"not consistent\" with an overdose attempt; on cross he agreed the numbers \"do not tell the entire story.\" Saathoff testified she told him she took pills in lemonade (via Wikipedia).",
+   "category": "investigation",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Justin Brower",
+   "location": "Lab",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "d-search-warrant",
+   "datetime": "2023-01-24T21:00-05:00",
+   "precision": "approximate",
+   "timeNote": "Time approximate (that night).",
+   "title": "Search warrant at the home; State Police investigate",
+   "description": "Duxbury Police contacted the State Police detective unit. Det. Maffeo went to South Shore Hospital (she was sedated and unresponsive), then returned to the home where police were executing a search warrant. Police eventually executed 11 search warrants (via Wikipedia).",
+   "category": "investigation",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Home / South Shore Hospital",
+   "scene": "house",
+   "sources": [
+    {
+     "title": "Duxbury detective, ER doctors testify in Lindsay Clancy trial after jurors view home where children were killed",
+     "url": "https://www.bostonglobe.com/2026/07/31/metro/lindsay-clancy-trial-jurors-visit-duxbury-home/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-31",
+     "key": "globe_0731"
+    },
+    {
+     "title": "Duxbury Woman Arraigned On Charges That She Murdered Her Three Children (press release)",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-on-charges-that-she-murdered-her-three-children/",
+     "outlet": "Plymouth County District Attorney's Office",
+     "date": "2023-10-26",
+     "key": "da_1026"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-arrest-warrant",
+   "datetime": "2023-01-25",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Arrest warrant; initial charges",
+   "description": "Authorities obtained an arrest warrant charging murder (Cora, Dawson), strangulation and assault counts; a third murder charge followed Callan's death (via Wikipedia). She went into cardiac arrest in the ICU early Jan. 25 and was resuscitated (ICU nurse testimony).",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "—",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    },
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-biswas",
+   "datetime": "2023-01-26",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Intubated, she writes questions to a forensic psychiatrist",
+   "description": "Forensic psychiatrist Dr. Jhilam Biswas testified that, unable to speak, Clancy wrote questions including \"Is my body broken?\" and \"Do I have an attorney?\" (via Wikipedia, citing trial coverage).",
+   "category": "investigation",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "testimony by Dr. Jhilam Biswas",
+   "location": "Brigham and Women's Hospital",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-cause",
+   "datetime": "2023-01-27",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Callan dies; medical examiner rules asphyxia",
+   "description": "Callan was removed from life support on Jan. 27, 2023 at Boston Children's Hospital. The Office of the Chief Medical Examiner found Cora and Dawson died of asphyxia and Callan of complications of asphyxia. Patrick told 60 Minutes he was able to hold him: \"he died in my arms.\"",
+   "category": "investigation",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Boston Children's Hospital",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Duxbury Woman Arraigned On Charges That She Murdered Her Three Children (press release)",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-on-charges-that-she-murdered-her-three-children/",
+     "outlet": "Plymouth County District Attorney's Office",
+     "date": "2023-10-26",
+     "key": "da_1026"
+    },
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    },
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-statement",
+   "datetime": "2023-01-28",
+   "precision": "approximate",
+   "timeNote": "'In the days after'; exact date not in cited source.",
+   "title": "Patrick publicly forgives Lindsay",
+   "description": "In the days after, Patrick wrote tributes to each child and publicly forgave Lindsay, later telling 60 Minutes: \"I believe that it was her mental illness that caused that.\"",
+   "category": "media",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy (60 Minutes)",
+   "location": "Online statement",
+   "scene": "offsite",
+   "sources": [
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-proxy",
+   "datetime": "2023-01-29",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Changes health-care proxy to her parents",
+   "description": "Dr. Sejal Shah testified that Clancy was initially confused after spinal surgery, later denied suicidal or homicidal thoughts, and asked to change her health-care proxy from her husband to her parents.",
+   "category": "investigation",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Sejal Shah",
+   "location": "Brigham and Women's Hospital",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-chaplain",
+   "datetime": "2023-01-31",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Chaplain: 'I'm so glad that my children are safe'",
+   "description": "Brigham chaplain Sheila Cavanaugh testified that on Jan. 31, 2023 Clancy said \"I'm so glad that my children are safe,\" and described a \"persistent\" male voice. On cross, the prosecution noted Cavanaugh's detailed notes never recorded a voice; Cavanaugh said her notes were not verbatim: \"I'm not there to evaluate the patient, I'm there to give witness to their suffering.\"",
+   "category": "trial-testimony",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "testimony by Sheila Cavanaugh (chaplain)",
+   "location": "Brigham and Women's Hospital",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "'I'm so glad my children are safe,' Lindsay Clancy told chaplain after killing them",
+     "url": "https://www.bostonglobe.com/2026/08/20/metro/lindsay-clancy-children-safe-voices/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-20",
+     "key": "globe_0820"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-zeizel-call",
+   "datetime": "2023-02-06",
+   "precision": "approximate",
+   "timeNote": "Date derived: '11 days' after Jan. 24 plus 'two days later' = about Feb. 6; approximate.",
+   "title": "Hospital phone call to Patrick: 'a man's voice'",
+   "description": "Defense psychologist Paul Zeizel's first visit was 11 days after the killings (a call to Patrick went unanswered); two days later Clancy reached Patrick on Zeizel's phone, on speaker. Patrick testified: \"She said she heard a man's voice telling her that if she didn't do it now she would lose her chance, or something like that.\" A trooper testified investigators floated a theory that Zeizel coached her but found no evidence; Zeizel denied it (\"Absolutely not\").",
+   "category": "trial-testimony",
+   "pov": [
+    "lindsay",
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy / Dr. Paul Zeizel",
+   "location": "Brigham and Women's Hospital / phone",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Lindsay Clancy 'said that she heard a male voice ordering her ... to kill her children,' psychologist tells jurors",
+     "url": "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-that-she-heard-male-voice-ordering-herto-kill-her-children-psychologist-tells-jurors/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-18",
+     "key": "globe_0818"
+    },
+    {
+     "title": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-29-2026/73285962",
+     "outlet": "WCVB",
+     "date": "2026-07-29",
+     "key": "wcvb_0729"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-voice-courttv"
+   ]
+  },
+  {
+   "id": "a-arraign",
+   "datetime": "2023-02-07",
+   "precision": "day",
+   "timeNote": null,
+   "title": "District Court arraignment from hospital bed",
+   "description": "Arraigned by video from her hospital bed; not guilty pleas entered. Prosecutors laid out their minute-by-minute timeline and said she was not suffering from postpartum depression. Reddington: \"This is not a situation that was planned, by any means\" and it was \"clearly a result of mental illness.\" A private funeral for the children was held the preceding Friday.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth District Court (virtual)",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "'She Killed the Kids': Prosecutors Outline Chilling Timeline in Duxbury Tragedy",
+     "url": "https://www.nbcboston.com/news/local/she-killed-the-kids-prosecutors-outline-chilling-timeline-in-duxbury-tragedy/2966770/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-02-07",
+     "key": "nbc_arraign"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-arraign"
+   ]
+  },
+  {
+   "id": "a-nyc",
+   "datetime": "2023-04",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Patrick moves to New York City",
+   "description": "Patrick told 60 Minutes he realized he could not stay in Duxbury and moved to New York City that April.",
+   "category": "media",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy (60 Minutes)",
+   "location": "New York City",
+   "scene": "offsite",
+   "sources": [
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-tewksbury",
+   "datetime": "2023-05-01",
+   "precision": "approximate",
+   "timeNote": "Reported May 1, 2023; transfer date approximate.",
+   "title": "Transferred to Tewksbury State Hospital",
+   "description": "Court records reported May 1, 2023 showed she had been transferred to Tewksbury State Hospital, where she has been held since.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Tewksbury State Hospital",
+   "scene": "hospital",
+   "sources": [
+    {
+     "title": "Lindsay Clancy transferred to Tewksbury Hospital, court records say",
+     "url": "https://www.bostonglobe.com/2023/05/01/metro/lindsay-clancy-transferred-to-tewksbury-state-hospital-records-say/",
+     "outlet": "The Boston Globe",
+     "date": "2023-05-01",
+     "key": "globe_tewks"
+    },
+    {
+     "title": "Will Lindsay Clancy be in court for Sept. 29 hearing? What we know",
+     "url": "https://www.patriotledger.com/story/news/courts/2026/09/28/will-lindsay-clancy-appear-in-person-in-court-for-status-hearing-mistrial-tewksbury-hospital/91983056007/",
+     "outlet": "The Patriot Ledger",
+     "date": "2026-09-28",
+     "key": "patriot_0928"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-indict",
+   "datetime": "2023-09-15",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Grand jury indictment",
+   "description": "A Plymouth County grand jury indicted her on three counts each of murder and strangulation. The DA's release says detectives developed probable cause that she acted with deliberate premeditation and extreme atrocity and cruelty.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth County",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Duxbury Woman Arraigned On Charges That She Murdered Her Three Children (press release)",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-on-charges-that-she-murdered-her-three-children/",
+     "outlet": "Plymouth County District Attorney's Office",
+     "date": "2023-10-26",
+     "key": "da_1026"
+    },
+    {
+     "title": "Lindsay Clancy indicted on murder charges by grand jury",
+     "url": "https://www.nbcboston.com/news/local/grand-jury-indicts-duxbury-woman-accused-of-killing-her-3-kids/3137202/",
+     "outlet": "NBC10 Boston",
+     "date": "2023-09-15",
+     "key": "nbc_indict"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-da-release"
+   ]
+  },
+  {
+   "id": "a-sc-arraign",
+   "datetime": "2023-10-26",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Superior Court arraignment at Tewksbury",
+   "description": "Arraigned at Tewksbury State Hospital; pleaded not guilty and held without bail.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Tewksbury State Hospital (virtual)",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Duxbury Woman Arraigned On Charges That She Murdered Her Three Children (press release)",
+     "url": "https://plymouthda.com/news/2023-press-releases/duxbury-woman-arraigned-on-charges-that-she-murdered-her-three-children/",
+     "outlet": "Plymouth County District Attorney's Office",
+     "date": "2023-10-26",
+     "key": "da_1026"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-da-release"
+   ]
+  },
+  {
+   "id": "a-divorce",
+   "datetime": "2024-02",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Patrick files for divorce",
+   "description": "Patrick filed for divorce in February 2024 (via Wikipedia). CBS News reports they have since divorced.",
+   "category": "legal",
+   "pov": [
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "—",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-psych-exam",
+   "datetime": "2025-01-14",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Ordered to undergo examination by prosecution experts",
+   "description": "The court ordered her to undergo a psychiatric examination with prosecution experts (via Wikipedia, citing NBC10 Boston).",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-venue",
+   "datetime": "2025-11-18",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Venue change denied; trial moved to July 20, 2026",
+   "description": "Judge William F. Sullivan denied a defense request to move the trial and agreed to delay the start to July 2026.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy murder trial pushed back to July 2026",
+     "url": "https://www.boston.com/news/crime/2025/11/18/lindsay-clancy-murder-trial-pushed-back-to-july-2026/",
+     "outlet": "Boston.com",
+     "date": "2025-11-18",
+     "key": "bcom_venue"
+    },
+    {
+     "title": "Judge denies request to move Lindsay Clancy's murder trial, agrees to delay start",
+     "url": "https://www.boston25news.com/news/local/judge-denies-request-move-lindsay-clancys-murder-trial-agrees-delay-start/HNTECJYW4RDGFMCUMIP7V5Y75M/",
+     "outlet": "Boston 25 News",
+     "date": "2025-11-18",
+     "key": "b25_venue"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-civil",
+   "datetime": "2026-01-22",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Civil malpractice suits filed by Lindsay and by Patrick",
+   "description": "Lindsay's complaint (Norfolk Superior Court) alleges a \"catastrophic failure\" by providers including McLean, Women & Infants, Dr. Tufts, NP Jollotta and their employers; it describes the voice and a \"dream-like state.\" Patrick filed a separate wrongful-death suit against Tufts, Jollotta, Aster Mental Health and South Shore Health. Allegations are unproven; some defendants deny wrongdoing.",
+   "category": "legal",
+   "pov": [
+    "lindsay",
+    "patrick"
+   ],
+   "status": "defense claim",
+   "location": "Norfolk Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "'Go to God, baby': Lindsay Clancy files malpractice lawsuit, says she heard a voice ordering her to kill her children",
+     "url": "https://www.boston.com/news/crime/2026/01/27/lindsay-clancy-malpractice-lawsuit/",
+     "outlet": "Boston.com",
+     "date": "2026-01-27",
+     "key": "bcom_lawsuit"
+    },
+    {
+     "title": "Lindsay Clancy civil complaint (Norfolk Superior Court, eFiled 01/22/2026), PDF posted by WPRI",
+     "url": "https://www.wpri.com/wp-content/uploads/sites/23/2026/01/Linday-Clancy-Lawsuit-01232026.pdf",
+     "outlet": "WPRI (court filing)",
+     "date": "2026-01-23",
+     "key": "complaint_pdf"
+    },
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-complaint"
+   ]
+  },
+  {
+   "id": "a-first-inperson",
+   "datetime": "2026-02-20",
+   "precision": "day",
+   "timeNote": null,
+   "title": "First in-person court appearance since arrest",
+   "description": "Clancy appeared in person on Feb. 20, 2026; earlier hearings were by Zoom from Tewksbury. She appeared in person again at a June 18 pretrial hearing.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Will Lindsay Clancy be in court for Sept. 29 hearing? What we know",
+     "url": "https://www.patriotledger.com/story/news/courts/2026/09/28/will-lindsay-clancy-appear-in-person-in-court-for-status-hearing-mistrial-tewksbury-hospital/91983056007/",
+     "outlet": "The Patriot Ledger",
+     "date": "2026-09-28",
+     "key": "patriot_0928"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-remarry",
+   "datetime": "2026-04",
+   "precision": "month",
+   "timeNote": null,
+   "title": "Patrick remarries",
+   "description": "Patrick married Dr. Rachel Danis in April 2026 (CBS). Both became targets of online conspiracy theories during the trial, which they reject.",
+   "category": "media",
+   "pov": [
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "New York City",
+   "scene": "offsite",
+   "sources": [
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    },
+    {
+     "title": "2 weeks after the end of Lindsay Clancy's trial, the holdout juror comes forward and Patrick Clancy speaks out",
+     "url": "https://www.cnn.com/2026/09/17/us/clancy-juror-holdout-statement-hnk",
+     "outlet": "CNN",
+     "date": "2026-09-17",
+     "key": "cnn_holdout"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-stipulate",
+   "datetime": "2026-04-07",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Defense offers to stipulate she caused the deaths",
+   "description": "After a request for a two-phase (bifurcated) trial was denied on March 31, the defense offered to formally stipulate to her involvement if the trial were split; prosecutors declined to agree to stipulations. The judge denied reconsideration on April 22 (via Wikipedia).",
+   "category": "legal",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy will admit killing children if judge splits trial",
+     "url": "https://www.bostonglobe.com/2026/04/07/metro/lindsay-clancy-admit-killing-children/",
+     "outlet": "The Boston Globe",
+     "date": "2026-04-07",
+     "key": "globe_stip"
+    },
+    {
+     "title": "Lindsay Clancy faces hearing after legal strategy again denied",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-bifurcated-denied-again/71106890",
+     "outlet": "WCVB",
+     "date": "2026-04",
+     "key": "wcvb_bifurc"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-nolle",
+   "datetime": "2026-07-10",
+   "precision": "approximate",
+   "timeNote": "Early July 2026; exact filing date approximate.",
+   "title": "Strangulation counts dropped as 'redundant'",
+   "description": "Prosecutors filed a nolle prosequi on the three strangulation counts, saying they are subsumed into the murder charges.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-jury-select",
+   "datetime": "2026-07-20",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Jury selection begins",
+   "description": "Trial began with jury selection July 20; 18 jurors (12 women, six men) were seated, six to be designated alternates later. The judge denied sequestration.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "a-911-ruling",
+   "datetime": "2026-07-24",
+   "precision": "day",
+   "timeNote": null,
+   "title": "911 call and autopsy photos barred from public release",
+   "description": "On Patrick Clancy's motion, the judge ruled the 911 recording and autopsy photos could be presented to jurors but not recorded, displayed or distributed publicly.",
+   "category": "legal",
+   "pov": [
+    "evidence",
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy judge bars media from posting audio of husband's 911 call, autopsy photos of children",
+     "url": "https://www.bostonglobe.com/2026/07/24/metro/lindsay-clancy-911-call-photos/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-24",
+     "key": "globe_911rule"
+    },
+    {
+     "title": "Patrick Clancy request to keep 911 call, autopsy photos private at ex-wife's murder trial approved by judge",
+     "url": "https://www.cbsnews.com/boston/news/patrick-clancy-wife-lindsay-murder-trial/",
+     "outlet": "CBS Boston",
+     "date": "2026-07-24",
+     "key": "cbs_911rule"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-911-ruling"
+   ]
+  },
+  {
+   "id": "t-open-pros",
+   "datetime": "2026-07-27T09:30-04:00",
+   "precision": "approximate",
+   "timeNote": "Morning session; minute approximate.",
+   "title": "Prosecution opening: 'not a woman in the throes of psychosis'",
+   "description": "The Commonwealth told jurors: \"This was not a woman in the throes of psychosis on January 24th, 2023. This was a woman who acted intentionally, rationally and swiftly to accomplish a very specific goal to kill.\" (The Boston Globe attributes the line to ADA Shanan Buckingham; Boston 25 to ADA Jennifer Sprague.) Prosecutors described her as controlling and manipulative.",
+   "category": "trial-testimony",
+   "pov": [],
+   "status": "prosecution claim",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy case: timeline of prescriptions",
+     "url": "https://www.bostonglobe.com/2026/07/27/metro/lindsay-clancy-timeline-medications-13/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-27",
+     "key": "globe_meds"
+    },
+    {
+     "title": "Lindsay Clancy trial: Prosecution, defense offer starkly different accounts in opening statements",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-trial-prosecution-defense-offer-starkly-different-accounts-opening-statements/J7Y4KVQ5FZBGBM3XXCNJP5D4XA/",
+     "outlet": "Boston 25 News",
+     "date": "2026-07-27",
+     "key": "b25_open"
+    },
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-open-globe",
+    "m-open-wcvb"
+   ]
+  },
+  {
+   "id": "t-open-def",
+   "datetime": "2026-07-27T10:30-04:00",
+   "precision": "approximate",
+   "timeNote": "Morning session; minute approximate.",
+   "title": "Defense opening: postpartum psychosis and overmedication",
+   "description": "Reddington said his client knows she killed her children but questioned what was going on in her mind; he argued possible bipolar disorder worsened by antidepressants (\"It messes with your brain\") and presented a list of prescriptions. He showed hospital photos of her injuries to counter any suggestion the suicide attempt was fake.",
+   "category": "trial-testimony",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    },
+    {
+     "title": "Lindsay Clancy case: timeline of prescriptions",
+     "url": "https://www.bostonglobe.com/2026/07/27/metro/lindsay-clancy-timeline-medications-13/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-27",
+     "key": "globe_meds"
+    },
+    {
+     "title": "Watch: Opening statements in Lindsay Clancy murder trial by prosecution, defense",
+     "url": "https://www.bostonglobe.com/2026/07/27/metro/lindsay-clancy-trial-opening-statements-kevin-reddington/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-27",
+     "key": "globe_open"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-open-globe",
+    "m-open-wcvb",
+    "m-meds"
+   ]
+  },
+  {
+   "id": "t-patrick-1",
+   "datetime": "2026-07-27T13:00-04:00",
+   "precision": "approximate",
+   "timeNote": "Afternoon; minute approximate.",
+   "title": "Patrick Clancy testifies (day 1)",
+   "description": "First witness. He described each birth, her anxiety about returning to work, medication changes, the December spiral, the McLean stay, and that on Jan. 24 she seemed to be \"having one of her best days.\"",
+   "category": "trial-testimony",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial: Patrick Clancy testifies ex-wife had thoughts of harming kids",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-27-2026/73269602",
+     "outlet": "WCVB",
+     "date": "2026-07-27",
+     "key": "wcvb_0727"
+    },
+    {
+     "title": "Lindsay Clancy trial live recap of opening statements, ex on stand",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-opening-statements-live-updates/3987462/",
+     "outlet": "NBC10 Boston",
+     "date": "2026-07-27",
+     "key": "nbc_0727"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-open-wcvb"
+   ]
+  },
+  {
+   "id": "t-patrick-2",
+   "datetime": "2026-07-29",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Patrick testifies (day 2); 911 call played; CVS and restaurant staff",
+   "description": "Patrick described the evening; the 911 call was played while he was out of the room (Lindsay sobbed; a recess followed). He was excused before the bands and clothing were shown. CVS manager Angela Krause and ThreeV hostess Saria Shelgren described normal phone calls. On cross, the defense focused on her treatment and on pill bottles police did not seize. Patrick later told 60 Minutes he had a panic attack and was taken to an ambulance on his second day of testimony.",
+   "category": "trial-testimony",
+   "pov": [
+    "patrick",
+    "evidence"
+   ],
+   "status": "testimony by Patrick Clancy, Angela Krause, Saria Shelgren",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Courtroom hears harrowing 911 call in Lindsay Clancy case, as ex-husband recalls the day of children's killings",
+     "url": "https://www.wbur.org/news/2026/07/29/lindsay-clancy-patrick-clancy-testimony-911-murder-trial",
+     "outlet": "WBUR",
+     "date": "2026-07-29",
+     "key": "wbur_0729"
+    },
+    {
+     "title": "Lindsay Clancy trial: Defense, prosecutors question Patrick Clancy; 911 call played in court",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-july-29-2026/73285962",
+     "outlet": "WCVB",
+     "date": "2026-07-29",
+     "key": "wcvb_0729"
+    },
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-911-coverage",
+    "m-patrick-day2"
+   ]
+  },
+  {
+   "id": "t-responders",
+   "datetime": "2026-07-30",
+   "precision": "day",
+   "timeNote": null,
+   "title": "First responders testify",
+   "description": "Ten first responders testified about the scene and lifesaving efforts; the defense cross-examined some about the appearance of her wounds, the cold and the darkness.",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Duxbury police and fire",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "'It turned very chaotic very quickly': Duxbury first responders testify in Lindsay Clancy's murder trial",
+     "url": "https://www.bostonglobe.com/2026/07/30/metro/clancy-trial-first-responders/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-30",
+     "key": "globe_0730"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-view",
+   "datetime": "2026-07-31",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Jury view of the home and the errand route",
+   "description": "Jurors were driven past the CVS and ThreeV and toured the Summer Street house (now owned by someone else) in small groups for about 40 minutes, including the basement and yard. Media were kept about 100 yards away. ER doctors and Det. Maffeo also testified.",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Duxbury (house and route)",
+   "scene": "overview",
+   "sources": [
+    {
+     "title": "Jurors in Lindsay Clancy's trial visit the home where she killed her children (AP)",
+     "url": "https://www.nbcboston.com/news/local/lindsay-clancy-trial-duxbury-house-jury-visit/3990184/",
+     "outlet": "NBC10 Boston / Associated Press",
+     "date": "2026-07-31",
+     "key": "nbc_view"
+    },
+    {
+     "title": "Duxbury detective, ER doctors testify in Lindsay Clancy trial after jurors view home where children were killed",
+     "url": "https://www.bostonglobe.com/2026/07/31/metro/lindsay-clancy-trial-jurors-visit-duxbury-home/",
+     "outlet": "The Boston Globe",
+     "date": "2026-07-31",
+     "key": "globe_0731"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-view-courttv"
+   ]
+  },
+  {
+   "id": "t-journals",
+   "datetime": "2026-08-03",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Her journals read to the jury",
+   "description": "The prosecution read: \"I feel like I'm drowning every day.\" The defense read: \"I don't know what's wrong with me\" and \"I want help. I want to be well.\" Reddington argued the entries degraded to near-illegibility by January.",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence",
+    "lindsay"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    },
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-journal"
+   ]
+  },
+  {
+   "id": "t-stip-speak",
+   "datetime": "2026-08-04",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Clancy speaks for the first time: forensic stipulation",
+   "description": "Asked by the judge whether she understood a stipulation on forensic facts (to avoid chain-of-custody witnesses), Clancy answered affirmatively, the first time she spoke at trial (via Wikipedia).",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-tox-nanny",
+   "datetime": "2026-08-05",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Toxicologist, DNA analyst, nanny, ICU nurses",
+   "description": "Toxicologist: levels not toxic. Former nanny Elaine Rossi described \"a wonderful mom\" who spoke about postpartum struggles. ICU nurses: she required resuscitation her first night and communicated by whiteboard from Jan. 28.",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Justin Brower, Elaine Rossi, ICU nurses",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    },
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-me",
+   "datetime": "2026-08-06",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Medical examiner testifies (images shown to jury only)",
+   "description": "Dr. Kimberley Springer described findings consistent with ligature strangulation. By court order the images were shown only to jurors. Clancy wept; the defense did not cross-examine. A dispute followed over an alleged 'hot mic' remark, which the DA's office said was \"shut it off\" (about the screen).",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Kimberley Springer",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy weeps at autopsy testimony; jurors hear from former father-in-law, family friend",
+     "url": "https://www.wcvb.com/article/lindsay-clancy-trial-live-updates-aug-6/73363619",
+     "outlet": "WCVB",
+     "date": "2026-08-06",
+     "key": "wcvb_0806"
+    },
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-mclean-tufts",
+   "datetime": "2026-08-07",
+   "precision": "day",
+   "timeNote": null,
+   "title": "McLean psychiatrist and Dr. Tufts testify",
+   "description": "Goodheart: no signs of psychosis; low risk at discharge. Tufts (direct): Clancy answered no when asked about hearing voices; described treatment through Jan. 23.",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Alia Goodheart / Dr. Jennifer Tufts",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy trial testimony moves to psychiatrists who treated her before murders",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-day-9-psychiatrists/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-07",
+     "key": "cbs_day9"
+    },
+    {
+     "title": "Lindsay Clancy trial spotlights psychiatric hospital stay before she killed her 3 children (AP)",
+     "url": "https://www.pbs.org/newshour/nation/lindsay-clancy-trial-spotlights-psychiatric-hospital-stay-before-she-killed-her-3-children",
+     "outlet": "PBS News / Associated Press",
+     "date": "2026-08-07",
+     "key": "pbs_mclean"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-tufts-cross",
+   "datetime": "2026-08-10",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Tufts cross-examined",
+   "description": "Tufts testified Clancy was \"completely denying any suicidal ideation or homicidal ideation\" the day before and disagreed that a medication increase pushed her \"over the edge.\" The defense criticized 25-minute video sessions and a lack of coordination among providers.",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Dr. Jennifer Tufts",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-jollotta",
+   "datetime": "2026-08-11",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Nurse practitioner Rebecca Jollotta testifies",
+   "description": "Described adjusting medications with the Clancys in response to Patrick's concerns about side effects.",
+   "category": "trial-testimony",
+   "pov": [],
+   "status": "testimony by Rebecca Jollotta",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-phone",
+   "datetime": "2026-08-13",
+   "precision": "day",
+   "timeNote": null,
+   "title": "State Police phone analysis",
+   "description": "Sgt. Timothy Chiappini testified to searches (\"hallucinations,\" \"psychosis,\" \"Can you treat a sociopath?\"), texts and the Oct. 2022 note, as well as everyday searches (a slime recipe, a Paw Patrol movie, a water park).",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence"
+   ],
+   "status": "testimony by Sgt. Timothy Chiappini",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy Googled 'hallucinations' before killings",
+     "url": "https://www.bostonglobe.com/2026/08/13/metro/lindsay-clancy-searched-hallucinations/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-13",
+     "key": "globe_0813"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-searches"
+   ]
+  },
+  {
+   "id": "t-whiffin-family",
+   "datetime": "2026-08-17",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Digital forensics; defense begins with family",
+   "description": "Ian Whiffin testified on phone/watch data. The defense called her mother, Paula Musgrove, and sister, Allison Ozga, who described her decline and suicidal statements.",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence",
+    "lindsay"
+   ],
+   "status": "testimony by Ian Whiffin / Paula Musgrove / Allison Ozga",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy's Search History, Apple Watch Data Detailed in Murder Trial",
+     "url": "https://www.eonline.com/news/1435115/lindsay-clancy-murder-trial-search-history-apple-watch-data-revealed",
+     "outlet": "E! News",
+     "date": "2026-08-17",
+     "key": "eonline"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-zeizel",
+   "datetime": "2026-08-18",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Defense: Zeizel, Condie, Laposata, Susan Clancy",
+   "description": "Zeizel (who met her about 60 times) said symptoms were consistent with psychosis and \"The medications were making things worse.\" Dr. Donald Condie called bipolar disorder a \"very serious possibility\" but acknowledged she did not report voices before the killings. A prosecution question to Susan Clancy about Catholic teaching was struck.",
+   "category": "trial-testimony",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "testimony by Dr. Paul Zeizel, Dr. Donald Condie, Dr. Elizabeth Laposata, Susan Clancy",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy 'said that she heard a male voice ordering her ... to kill her children,' psychologist tells jurors",
+     "url": "https://www.bostonglobe.com/2026/08/18/metro/lindsay-clancy-said-that-she-heard-male-voice-ordering-herto-kill-her-children-psychologist-tells-jurors/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-18",
+     "key": "globe_0818"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-voice-courttv"
+   ]
+  },
+  {
+   "id": "t-chaplain-rally",
+   "datetime": "2026-08-20",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Chaplain testifies; supporters rally outside",
+   "description": "Chaplain Cavanaugh testified (see Jan. 31, 2023). More than 400 supporters in pink gathered; the judge questioned each juror, and all said they could remain impartial. Other spectators, in white, said the focus should be on the children.",
+   "category": "trial-testimony",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "testimony by Sheila Cavanaugh",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "'I'm so glad my children are safe,' Lindsay Clancy told chaplain after killing them",
+     "url": "https://www.bostonglobe.com/2026/08/20/metro/lindsay-clancy-children-safe-voices/",
+     "outlet": "The Boston Globe",
+     "date": "2026-08-20",
+     "key": "globe_0820"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-resnick-mack",
+   "datetime": "2026-08-21",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Resnick for the defense; defense rests; Mack in rebuttal",
+   "description": "Resnick (by Zoom): \"She was clearly psychotic on that day.\" Prosecutors noted his writing that command hallucinations are easy to fake. Rebuttal psychiatrist Dr. Avram Mack said she \"retained the capacity\" for criminal responsibility and had depression and anxiety, with no evidence of mania.",
+   "category": "trial-testimony",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "testimony by Dr. Phillip Resnick / Dr. Avram Mack",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy told children \"go to God\" during murders, prosecution psychiatrist says at trial",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-trial-watch-live-day-18-dr-phillip-resnick/",
+     "outlet": "CBS Boston",
+     "date": "2026-08-21",
+     "key": "cbs_day18"
+    },
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    }
+   ],
+   "related": [
+    "d-voice-afternoon"
+   ],
+   "media": []
+  },
+  {
+   "id": "t-heilbrun",
+   "datetime": "2026-08-24",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Heilbrun rebuttal; religion remark; mistrial motion denied",
+   "description": "Forensic psychologist Kirk Heilbrun said she was criminally responsible. After he referenced her Catholic upbringing, Reddington moved for a mistrial; it was denied and the judge told jurors to disregard the remark.",
+   "category": "trial-testimony",
+   "pov": [],
+   "status": "testimony by Dr. Kirk Heilbrun",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    },
+    {
+     "title": "Expert witnesses challenge claim that Lindsay Clancy experienced psychosis",
+     "url": "https://www.theguardian.com/us-news/2026/aug/25/lindsay-clancy-trial-testimonies-latest",
+     "outlet": "The Guardian",
+     "date": "2026-08-25",
+     "key": "guardian_0825"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-saathoff",
+   "datetime": "2026-08-25",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Heilbrun cross-examined; Saathoff testifies",
+   "description": "Heilbrun: \"She retained an awareness of the illegality of killing others, including her children.\" He said he was paid about $54,000 for 180 hours. Dr. Gregory Saathoff found it unusual that she had not reported voices before and that they ceased afterward, and cited inconsistencies in her account.",
+   "category": "trial-testimony",
+   "pov": [],
+   "status": "testimony by Dr. Kirk Heilbrun / Dr. Gregory Saathoff",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Expert witnesses challenge claim that Lindsay Clancy experienced psychosis",
+     "url": "https://www.theguardian.com/us-news/2026/aug/25/lindsay-clancy-trial-testimonies-latest",
+     "outlet": "The Guardian",
+     "date": "2026-08-25",
+     "key": "guardian_0825"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-close",
+   "datetime": "2026-08-27",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Closing arguments; deliberations begin",
+   "description": "Reddington (52 min): \"My God, what does she have to do? She was reaching out for help and she was not getting it.\" Sprague (54 min): \"She knew what she did was wrong\"; the mental health system is \"not on trial here.\" Twelve of 18 jurors (nine women, three men) deliberated on options including first-degree murder, manslaughter and not guilty by reason of lack of criminal responsibility.",
+   "category": "trial-testimony",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-key-moments-jury-weighs-case/",
+     "outlet": "CBS News",
+     "date": "2026-08-27",
+     "key": "cbs_key"
+    },
+    {
+     "title": "Judge declares mistrial in Clancy case after jurors, with 'heavy heart,' fail to reach verdict",
+     "url": "https://www.wbur.org/news/2026/09/04/lindsay-clancy-murder-trial-verdict-massachusetts",
+     "outlet": "WBUR",
+     "date": "2026-09-04",
+     "key": "wbur_mistrial"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-closing-courttv",
+    "m-closing-nbc"
+   ]
+  },
+  {
+   "id": "t-delib-exhibits",
+   "datetime": "2026-08-28",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Jury asks to see the knife and pill bottles",
+   "description": "On the second day of deliberations the jury asked to view the knife and bags of pill bottles.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy's jury ends the week without verdict, will return Monday",
+     "url": "https://www.nbcnews.com/news/us-news/lindsay-clancy-scared-jury-murder-trial-continues-deliberations-rcna594890",
+     "outlet": "NBC News",
+     "date": "2026-08-28",
+     "key": "nbcnews_delib"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-deadlock1",
+   "datetime": "2026-09-01",
+   "precision": "day",
+   "timeNote": null,
+   "title": "First deadlock note",
+   "description": "The jury reported it could not reach a unanimous verdict; the judge sent it back. (A woman was later charged with intimidating jurors after allegedly filming them; via Wikipedia.)",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-tuey",
+   "datetime": "2026-09-02",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Tuey-Rodriguez charge given",
+   "description": "After a further deadlock report, the judge gave the Tuey-Rodriguez instruction urging jurors to keep trying for a verdict.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Judge declares mistrial in Clancy case after jurors, with 'heavy heart,' fail to reach verdict",
+     "url": "https://www.wbur.org/news/2026/09/04/lindsay-clancy-murder-trial-verdict-massachusetts",
+     "outlet": "WBUR",
+     "date": "2026-09-04",
+     "key": "wbur_mistrial"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-holdout-note",
+   "datetime": "2026-09-03",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Foreperson's note about a lone juror",
+   "description": "The foreperson wrote that one juror \"has made statements acknowledging doubt, but refuses to apply it to the verdict as the law states.\" Reddington sought the juror's removal; the judge declined, saying a deliberating juror may be discharged only for reasons personal to that juror.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "2 weeks after the end of Lindsay Clancy's trial, the holdout juror comes forward and Patrick Clancy speaks out",
+     "url": "https://www.cnn.com/2026/09/17/us/clancy-juror-holdout-statement-hnk",
+     "outlet": "CNN",
+     "date": "2026-09-17",
+     "key": "cnn_holdout"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "t-mistrial",
+   "datetime": "2026-09-04T14:20-04:00",
+   "precision": "approximate",
+   "timeNote": "'Around 2:20 p.m.' court reconvened.",
+   "title": "Mistrial declared",
+   "description": "A third note read: \"It is with a heavy heart that we report we are unable to come to a unanimous decision, and we will not be able to.\" The judge allowed one hour for an emergency petition; a Supreme Judicial Court single justice denied it, and the mistrial became official when court reconvened around 2:20 p.m. The split was 11-1 in favor of acquittal by reason of lack of criminal responsibility (per the defense and jurors). Juror names were sealed until Sept. 18.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Judge declares mistrial in Clancy case after jurors, with 'heavy heart,' fail to reach verdict",
+     "url": "https://www.wbur.org/news/2026/09/04/lindsay-clancy-murder-trial-verdict-massachusetts",
+     "outlet": "WBUR",
+     "date": "2026-09-04",
+     "key": "wbur_mistrial"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    },
+    {
+     "title": "WATCH LIVE: Lindsay Clancy returns to court for hearing to help determine whether she will be retried (AP)",
+     "url": "https://www.pbs.org/newshour/nation/watch-live-lindsay-clancy-returns-to-court-for-hearing-to-help-determine-whether-she-will-be-retried",
+     "outlet": "PBS News / Associated Press",
+     "date": "2026-09-29",
+     "key": "pbs_0929"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-mistrial"
+   ]
+  },
+  {
+   "id": "t-reactions",
+   "datetime": "2026-09-04T15:00-04:00",
+   "precision": "approximate",
+   "timeNote": "Afternoon; minute approximate.",
+   "title": "Reactions: DA, defense, Patrick's attorney",
+   "description": "DA Timothy Cruz said a retrial decision would come \"in the context of an official court proceeding\" and that first-degree charges were warranted. Reddington said the jurors were \"robbed by one man.\" Patrick's attorney: \"The prospect of reliving this tragedy through another trial is extraordinarily painful.\"",
+   "category": "media",
+   "pov": [
+    "patrick"
+   ],
+   "status": "established fact",
+   "location": "Outside Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "DA Cruz to decide next steps after Lindsay Clancy's murder trial ends in mistrial",
+     "url": "https://www.boston25news.com/news/local/da-cruz-decide-next-steps-after-lindsay-clancys-murder-trial-ends-mistrial/32DFHBSRSNAGNLE6LSLRN5BA5A/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_cruz"
+    },
+    {
+     "title": "Judge declares mistrial in Clancy case after jurors, with 'heavy heart,' fail to reach verdict",
+     "url": "https://www.wbur.org/news/2026/09/04/lindsay-clancy-murder-trial-verdict-massachusetts",
+     "outlet": "WBUR",
+     "date": "2026-09-04",
+     "key": "wbur_mistrial"
+    },
+    {
+     "title": "Mistrial declared in Lindsay Clancy murder trial after defense's appeal unsuccessful",
+     "url": "https://www.boston25news.com/news/local/lindsay-clancy-verdict-story/Y5EIQ2QGB5FCJKQ5VNVVR2ZL6M/",
+     "outlet": "Boston 25 News",
+     "date": "2026-09-04",
+     "key": "b25_mistrial"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "p-jurors-tv",
+   "datetime": "2026-09-08",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Jurors describe deliberations on NBC10",
+   "description": "Foreperson Ronni Carlson (spelled Roni by CNN) said the holdout \"admitted he had reasonable doubt\" but would not vote for the insanity verdict; other jurors criticized him and the prosecution's tone. These are jurors' accounts; the holdout disputes them.",
+   "category": "media",
+   "pov": [],
+   "status": "testimony by jurors (NBC10 interview)",
+   "location": "Media",
+   "scene": "offsite",
+   "sources": [
+    {
+     "title": "Jurors speak out about Lindsay Clancy mistrial and the lone holdout (AP)",
+     "url": "https://www.pbs.org/newshour/nation/jurors-speak-out-about-lindsay-clancy-mistrial-and-the-lone-holdout",
+     "outlet": "PBS News / Associated Press",
+     "date": "2026-09-09",
+     "key": "pbs_jurors"
+    },
+    {
+     "title": "2 weeks after the end of Lindsay Clancy's trial, the holdout juror comes forward and Patrick Clancy speaks out",
+     "url": "https://www.cnn.com/2026/09/17/us/clancy-juror-holdout-statement-hnk",
+     "outlet": "CNN",
+     "date": "2026-09-17",
+     "key": "cnn_holdout"
+    }
+   ],
+   "related": [
+    "p-holdout"
+   ],
+   "media": [
+    "m-jurors"
+   ]
+  },
+  {
+   "id": "p-impound",
+   "datetime": "2026-09-14",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Juror list impounded indefinitely",
+   "description": "The judge ordered the names of jurors and the jury pool kept from the public indefinitely for juror safety after the holdout's identity circulated online.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy judge and attorneys discuss potential retrial date in first hearing since mistrial (live updates)",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-mistrial-hearing-watch-live-updates/",
+     "outlet": "CBS Boston",
+     "date": "2026-09-29",
+     "key": "cbs_0929"
+    },
+    {
+     "title": "Killing of the Clancy children (encyclopedia overview; consulted for cross-checking and for items marked 'via Wikipedia')",
+     "url": "https://en.wikipedia.org/wiki/Killing_of_the_Clancy_children",
+     "outlet": "Wikipedia",
+     "date": "accessed 2026-09-29",
+     "key": "wiki"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "p-holdout",
+   "datetime": "2026-09-17",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Holdout juror's statement: 'I didn't have any doubts'",
+   "description": "Through counsel, the holdout said he was repeatedly cut off and misperceived: \"I didn't have any doubts,\" believing the evidence showed she \"knew exactly what she was doing and planned.\" (This site does not name private jurors.)",
+   "category": "media",
+   "pov": [],
+   "status": "testimony by holdout juror (written statement)",
+   "location": "Media",
+   "scene": "offsite",
+   "sources": [
+    {
+     "title": "2 weeks after the end of Lindsay Clancy's trial, the holdout juror comes forward and Patrick Clancy speaks out",
+     "url": "https://www.cnn.com/2026/09/17/us/clancy-juror-holdout-statement-hnk",
+     "outlet": "CNN",
+     "date": "2026-09-17",
+     "key": "cnn_holdout"
+    },
+    {
+     "title": "Holdout juror in Lindsay Clancy trial says he \"didn't have any doubts\" during deliberations",
+     "url": "https://www.cbsnews.com/news/lindsay-clancy-trial-holdout-juror/",
+     "outlet": "CBS News",
+     "date": "2026-09-17",
+     "key": "cbs_holdout"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-holdout"
+   ]
+  },
+  {
+   "id": "p-60min",
+   "datetime": "2026-09-20",
+   "precision": "day",
+   "timeNote": null,
+   "title": "60 Minutes interview with Patrick Clancy",
+   "description": "Patrick and his wife spoke with Ross Douthat. \"I think mental illness has this ability to be tragically deceptive,\" he said, and he believes he \"did the best I could with what I had at the time.\" He described being targeted by online theories.",
+   "category": "media",
+   "pov": [
+    "patrick"
+   ],
+   "status": "testimony by Patrick Clancy (60 Minutes)",
+   "location": "Media",
+   "scene": "offsite",
+   "sources": [
+    {
+     "title": "Patrick Clancy opens up about grief, the memory of his children and moving forward",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-grief-children-mistrial-60-minutes/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min"
+    },
+    {
+     "title": "60 Minutes Transcript: Patrick Clancy",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-60-minutes-transcript/",
+     "outlet": "CBS News / 60 Minutes",
+     "date": "2026-09-20",
+     "key": "cbs_60min_tx"
+    },
+    {
+     "title": "5 moments from Patrick Clancy's 60 Minutes interview",
+     "url": "https://www.cbsnews.com/news/patrick-clancy-60-minutes-interview-moments/",
+     "outlet": "CBS News",
+     "date": "2026-09-20",
+     "key": "cbs_60min_5"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-60min",
+    "m-60min-tx"
+   ]
+  },
+  {
+   "id": "p-motions",
+   "datetime": "2026-09-20",
+   "precision": "approximate",
+   "timeNote": "Filed in the weeks after the mistrial; exact dates not in cited sources.",
+   "title": "Defense motions: dismiss (double jeopardy), probe juror, required finding",
+   "description": "The defense filed motions arguing the mistrial was improperly declared and a retrial would violate double jeopardy; seeking an inquiry into the holdout's questionnaire answers, statements and phone use; and seeking a required finding of not guilty.",
+   "category": "legal",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "WATCH LIVE: Lindsay Clancy returns to court for hearing to help determine whether she will be retried (AP)",
+     "url": "https://www.pbs.org/newshour/nation/watch-live-lindsay-clancy-returns-to-court-for-hearing-to-help-determine-whether-she-will-be-retried",
+     "outlet": "PBS News / Associated Press",
+     "date": "2026-09-29",
+     "key": "pbs_0929"
+    },
+    {
+     "title": "Tuesday hearing could determine future of Lindsay Clancy prosecution",
+     "url": "https://www.wcvb.com/article/clancy-sept-29-hearing-preview/73923730",
+     "outlet": "WCVB",
+     "date": "2026-09-28",
+     "key": "wcvb_preview"
+    },
+    {
+     "title": "Lindsay Clancy expected back in court after attorney files motions to dismiss case",
+     "url": "https://www.cbsnews.com/boston/news/lindsay-clancy-mistrial-kevin-reddington-juror-attorney/",
+     "outlet": "CBS Boston",
+     "date": "2026-09-28",
+     "key": "cbs_0928"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "p-gag",
+   "datetime": "2026-09-28",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Prosecution seeks gag order; juror-probe motion adjourned by consent",
+   "description": "Prosecutors moved to bar prejudicial out-of-court statements, citing defense press comments; WBZ-TV and the Globe opposed. The juror's counsel said both sides agreed to adjourn the juror-inquiry motion.",
+   "category": "legal",
+   "pov": [],
+   "status": "prosecution claim",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy judge and attorneys discuss potential retrial date in first hearing since mistrial (live updates)",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-mistrial-hearing-watch-live-updates/",
+     "outlet": "CBS Boston",
+     "date": "2026-09-29",
+     "key": "cbs_0929"
+    },
+    {
+     "title": "Lindsay Clancy in court for double jeopardy motion and juror probe",
+     "url": "https://www.foxnews.com/us/lindsay-clancy-push-probe-holdout-juror-hits-snag-pivotal-retrial-hearing",
+     "outlet": "Fox News",
+     "date": "2026-09-29",
+     "key": "fox_0929"
+    }
+   ],
+   "related": [],
+   "media": []
+  },
+  {
+   "id": "p-hearing",
+   "datetime": "2026-09-29T09:55-04:00",
+   "precision": "exact",
+   "timeNote": null,
+   "title": "Sept. 29 status hearing: no retrial decision; next date Nov. 2",
+   "description": "The hearing began at 9:55 a.m. and ran about an hour. The juror-inquiry motion, the motion to dismiss and the gag order were set for Nov. 2; motions for a required finding and to unseal juror notes/sidebars were taken under advisement. The judge wanted a tentative trial date (\"get this thing tried as soon as possible\"); both sides preferred to await rulings; Reddington said he could not try the case before June.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy judge and attorneys discuss potential retrial date in first hearing since mistrial (live updates)",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-mistrial-hearing-watch-live-updates/",
+     "outlet": "CBS Boston",
+     "date": "2026-09-29",
+     "key": "cbs_0929"
+    },
+    {
+     "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed (live)",
+     "url": "https://www.bbc.com/news/live/cmjrxv4298y5t",
+     "outlet": "BBC News",
+     "date": "2026-09-29",
+     "key": "bbc_0929"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-0929-cbs",
+    "m-0929-bbc"
+   ]
+  },
+  {
+   "id": "p-hearing-def",
+   "datetime": "2026-09-29T10:20-04:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Defense argues insufficient evidence she killed the children",
+   "description": "Reddington argued police \"just immediately assumed\" she was guilty and \"There's no evidence that she admitted she did this,\" saying she has no memory and was told what happened by police. This departs from the trial, where he did not dispute that she killed them.",
+   "category": "legal",
+   "pov": [
+    "lindsay"
+   ],
+   "status": "defense claim",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy judge and attorneys discuss potential retrial date in first hearing since mistrial (live updates)",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-mistrial-hearing-watch-live-updates/",
+     "outlet": "CBS Boston",
+     "date": "2026-09-29",
+     "key": "cbs_0929"
+    },
+    {
+     "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed (live)",
+     "url": "https://www.bbc.com/news/live/cmjrxv4298y5t",
+     "outlet": "BBC News",
+     "date": "2026-09-29",
+     "key": "bbc_0929"
+    }
+   ],
+   "related": [
+    "p-hearing-pros"
+   ],
+   "media": [
+    "m-0929-cbs"
+   ]
+  },
+  {
+   "id": "p-hearing-pros",
+   "datetime": "2026-09-29T10:35-04:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "Prosecution: the evidence is 'voluminous'",
+   "description": "ADA Shanan Buckingham called the insufficiency argument \"laughable,\" said the Commonwealth \"met its burden,\" and argued \"not every defendant with a mental illness lacks criminal responsibility.\"",
+   "category": "legal",
+   "pov": [],
+   "status": "prosecution claim",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy judge and attorneys discuss potential retrial date in first hearing since mistrial (live updates)",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-mistrial-hearing-watch-live-updates/",
+     "outlet": "CBS Boston",
+     "date": "2026-09-29",
+     "key": "cbs_0929"
+    },
+    {
+     "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed (live)",
+     "url": "https://www.bbc.com/news/live/cmjrxv4298y5t",
+     "outlet": "BBC News",
+     "date": "2026-09-29",
+     "key": "bbc_0929"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-0929-cbs"
+   ]
+  },
+  {
+   "id": "p-da",
+   "datetime": "2026-09-29T11:45-04:00",
+   "precision": "approximate",
+   "timeNote": null,
+   "title": "DA: no decision yet on retrial",
+   "description": "Cruz said his office has not decided and is proceeding as if a second trial is imminent: \"We're doing a very thorough review right now.\"",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Outside Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy judge and attorneys discuss potential retrial date in first hearing since mistrial (live updates)",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-mistrial-hearing-watch-live-updates/",
+     "outlet": "CBS Boston",
+     "date": "2026-09-29",
+     "key": "cbs_0929"
+    },
+    {
+     "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed (live)",
+     "url": "https://www.bbc.com/news/live/cmjrxv4298y5t",
+     "outlet": "BBC News",
+     "date": "2026-09-29",
+     "key": "bbc_0929"
+    }
+   ],
+   "related": [],
+   "media": [
+    "m-0929-cbs"
+   ]
+  },
+  {
+   "id": "p-nov2",
+   "datetime": "2026-11-02",
+   "precision": "day",
+   "timeNote": null,
+   "title": "Scheduled: Nov. 2 hearing",
+   "description": "Scheduled hearing on the defense motion to dismiss, the juror-inquiry motion, the gag order and trial scheduling. Future event; outcome unknown.",
+   "category": "legal",
+   "pov": [
+    "evidence"
+   ],
+   "status": "established fact",
+   "location": "Plymouth Superior Court",
+   "scene": "court",
+   "sources": [
+    {
+     "title": "Lindsay Clancy judge and attorneys discuss potential retrial date in first hearing since mistrial (live updates)",
+     "url": "https://www.cbsnews.com/boston/live-updates/lindsay-clancy-murder-trial-mistrial-hearing-watch-live-updates/",
+     "outlet": "CBS Boston",
+     "date": "2026-09-29",
+     "key": "cbs_0929"
+    },
+    {
+     "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed (live)",
+     "url": "https://www.bbc.com/news/live/cmjrxv4298y5t",
+     "outlet": "BBC News",
+     "date": "2026-09-29",
+     "key": "bbc_0929"
+    }
+   ],
+   "related": [],
+   "media": []
+  }
+ ],
+ "scenePaths": {
+  "lindsay": [
+   "d-snowman",
+   "d-voice-afternoon",
+   "d-text-takeout",
+   "d-patrick-leaves",
+   "d-voice-loud",
+   "d-basement-account",
+   "d-call-534",
+   "d-def-phone",
+   "d-wounds-def",
+   "d-screen-def",
+   "d-jump",
+   "d-yard-def",
+   "a-chaplain",
+   "a-zeizel-call",
+   "t-open-def",
+   "t-mistrial",
+   "p-hearing-def"
+  ],
+  "patrick": [
+   "d-best-day",
+   "d-text-takeout",
+   "d-patrick-leaves",
+   "d-cvs",
+   "d-call-534",
+   "d-cvs-leave",
+   "d-threev",
+   "d-home",
+   "d-locked",
+   "d-yard",
+   "d-911",
+   "d-basement",
+   "d-patrick-distress",
+   "a-cause",
+   "a-zeizel-call",
+   "t-patrick-2",
+   "p-60min"
+  ],
+  "evidence": [
+   "d-snowman",
+   "d-search-miralax",
+   "d-search-threev",
+   "d-cvs-call",
+   "d-text-takeout",
+   "d-threev-call",
+   "d-last-unlock",
+   "d-patrick-leaves",
+   "d-watch-stops",
+   "d-cvs",
+   "d-call-533",
+   "d-call-534",
+   "d-stairs",
+   "d-phone-stops",
+   "d-threev",
+   "d-bedroom-evidence",
+   "d-screen",
+   "d-jump",
+   "d-home",
+   "d-911",
+   "d-responders",
+   "d-basement",
+   "d-transport",
+   "d-dawson-728",
+   "t-mistrial",
+   "p-hearing"
+  ]
+ }
+}
