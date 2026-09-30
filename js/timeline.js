@@ -28,7 +28,7 @@ const PHASES = [
   { a: U(2026, 9, 4, 14, 20), b: U(2026, 11, 3), t: 'After mistrial' },
 ];
 const F = { cats: new Set(CATS), status: new Set(STATUS.map(s => s.key)), lanes: new Set(LANES.map(l => l.key)), q: '' };
-let svg, gPlot, gAxis, gGrid, gLanes, gPhases, x0, zx, zoom, W = 1000, selected = null, inited = false, tip;
+let svg, gPlot, gAxis, gGrid, gLanes, gPhases, x0, zx, zoom, W = 1000, selected = null, inited = false, tip, PH = false;   // PH: narrow (phone) layout
 const M = { left: 178, right: 18, top: 34, bottom: 24 };
 const items = [];
 DATA.events.forEach(e => {
@@ -57,6 +57,9 @@ function buildFilters(){
   document.getElementById('tl-search').addEventListener('input', ev => { F.q = ev.target.value.trim().toLowerCase(); draw(); drawList(); });
   document.getElementById('tl-listtoggle').addEventListener('click', ev => { const l = document.getElementById('tl-list'); l.hidden = !l.hidden; ev.target.classList.toggle('active', !l.hidden); ev.target.textContent = l.hidden ? 'List view' : 'Hide list'; drawList(); });
   document.querySelectorAll('.zbtn').forEach(b => b.addEventListener('click', () => zoomTo(b.dataset.zoom, true)));
+  // zoom / pan buttons (shown on touch devices and phones)
+  document.querySelectorAll('.zctl [data-zstep]').forEach(b => b.addEventListener('click', () => svg.transition().duration(320).call(zoom.scaleBy, +b.dataset.zstep, [(M.left + W - M.right) / 2, 0])));
+  document.querySelectorAll('.zctl [data-pan]').forEach(b => b.addEventListener('click', () => svg.transition().duration(320).call(zoom.translateBy, -b.dataset.pan * (W - M.left - M.right) * 0.4, 0)));
 }
 
 function init(){
@@ -73,10 +76,25 @@ function init(){
   gPlot = svg.append('g').attr('clip-path', 'url(#tlclip)');
   x0 = d3.scaleUtc().domain(PRESETS.all);
   zx = x0.copy();
-  zoom = d3.zoom().scaleExtent([0.7, 80000]).on('zoom', ev => { zx = ev.transform.rescaleX(x0); draw(); });
+  zoom = d3.zoom().scaleExtent([0.7, 80000]).filter(ev => (!ev.ctrlKey || ev.type === 'wheel') && !ev.button && !(ev.type === 'touchstart' && ev.touches.length < 2)).on('zoom', ev => { zx = ev.transform.rescaleX(x0); draw(); });
   svg.call(zoom).on('dblclick.zoom', null);
+
+  // Touch: d3 handles two-finger pinch only. A one-finger horizontal drag pans (below); vertical swipes scroll the
+  // page natively (CSS touch-action: pan-y on the svg), so the chart never traps the page on phones.
+  (function(){ let tp = null; const node = svg.node();
+    node.addEventListener('pointerdown', ev => { if (ev.pointerType !== 'touch') return; tp = ev.isPrimary ? { x: ev.clientX, y: ev.clientY, lx: ev.clientX, mode: null } : null; });
+    node.addEventListener('pointermove', ev => {
+      if (!tp || ev.pointerType !== 'touch' || !ev.isPrimary) return;
+      const dx = ev.clientX - tp.x, dy = ev.clientY - tp.y;
+      if (!tp.mode){ if (Math.hypot(dx, dy) < 8) return; tp.mode = Math.abs(dx) > Math.abs(dy) ? 'pan' : 'scroll'; }
+      if (tp.mode === 'pan') svg.call(zoom.translateBy, (ev.clientX - tp.lx) / d3.zoomTransform(node).k, 0);
+      tp.lx = ev.clientX;
+    });
+    ['pointerup', 'pointercancel'].forEach(t => node.addEventListener(t, ev => { if (ev.isPrimary) tp = null; }));
+  })();
   const resize = () => {
     W = document.getElementById('tl-chart').clientWidth || 1000;
+    PH = W < 600; M.left = PH ? 104 : 178;
     const t = d3.zoomTransform(svg.node());
     x0.range([M.left, W - M.right]); zx = t.rescaleX(x0);
     zoom.extent([[M.left, 0], [W - M.right, 10]]).translateExtent([[x0(U(2019, 1, 1)), 0], [x0(U(2027, 6, 1)), 10]]);
@@ -105,7 +123,7 @@ function layout(vis){
     d.x = zx(d.t);
     const inView = d.t >= d0 && d.t <= d1;
     const rows = rowsByLane[d.lane], maxRows = 9;
-    const lw = Math.min(d.e.title.length, 34) * 6.1 + 14;
+    const LM = PH ? 22 : 34, lw = Math.min(d.e.title.length, LM) * 6.1 + 14;
     let r = rows.findIndex(end => end < d.x - 6);
     if (r === -1 && rows.length < maxRows){ r = rows.length; rows.push(-Infinity); }
     if (r !== -1){ d.row = r; d.label = inView; rows[r] = d.x + (inView ? lw : 12); }
@@ -126,8 +144,8 @@ function draw(){
   const lg = gLanes.selectAll('g.lane').data(lanes, d => d.key).join(enter => { const g = enter.append('g').attr('class', 'lane'); g.append('rect').attr('class', 'lane-bg'); g.append('rect').attr('class', 'lane-color'); g.append('text').attr('class', 'lane-label'); g.append('text').attr('class', 'lane-sub'); return g; });
   lg.select('.lane-bg').attr('x', 0).attr('width', W).attr('y', d => laneY[d.key].y).attr('height', d => laneY[d.key].h).attr('class', (d, i) => 'lane-bg' + (i % 2 ? ' alt' : ''));
   lg.select('.lane-color').attr('x', 0).attr('width', 4).attr('y', d => laneY[d.key].y).attr('height', d => laneY[d.key].h).attr('fill', d => d.color);
-  lg.select('.lane-label').attr('x', 14).attr('y', d => laneY[d.key].y + 22).text(d => d.name).attr('fill', d => d.color);
-  lg.select('.lane-sub').attr('x', 14).attr('y', d => laneY[d.key].y + 38).text(d => d.sub).each(function(d){ wrapSub(d3.select(this), d.sub, laneY[d.key].y + 38); });
+  lg.select('.lane-label').attr('x', 14).attr('y', d => laneY[d.key].y + 22).text(d => PH && d.name.length > 15 ? d.name.slice(0, 14) + '…' : d.name).attr('fill', d => d.color);
+  lg.select('.lane-sub').attr('x', 14).attr('y', d => laneY[d.key].y + 38).text(d => d.sub).each(function(d){ wrapSub(d3.select(this), PH ? '' : d.sub, laneY[d.key].y + 38); });
   // phases
   gPhases.selectAll('g.ph').data(PHASES).join(enter => { const g = enter.append('g').attr('class', 'ph'); g.append('rect'); g.append('text'); return g; })
     .each(function(p, i){ const g = d3.select(this), xa = zx(p.a), xb = zx(p.b); g.select('rect').attr('x', xa).attr('y', M.top).attr('width', Math.max(1, xb - xa)).attr('height', height - M.top - M.bottom + 20).attr('fill', i % 2 ? 'rgba(143,179,217,0.035)' : 'rgba(217,179,108,0.05)');
@@ -145,7 +163,7 @@ function draw(){
     .classed('sel', d => d.e.id === selected)
     .attr('aria-label', d => d.e.title + ', ' + C.fmtWhen(d.e));
   evs.select('circle').attr('fill', d => (d.e.precision === 'approximate' || d.e.precision === 'month') ? '#12161c' : STATUS_COLOR[d.sg]).attr('stroke', d => STATUS_COLOR[d.sg]);
-  evs.select('text').text(d => d.label ? (d.e.title.length > 34 ? d.e.title.slice(0, 33) + '…' : d.e.title) : '');
+  evs.select('text').text(d => { const LM = PH ? 22 : 34; return d.label ? (d.e.title.length > LM ? d.e.title.slice(0, LM - 1) + '…' : d.e.title) : ''; });
   evs.on('click', (ev, d) => C.openEvent(d.e.id))
     .on('keydown', (ev, d) => { if (ev.key === 'Enter' || ev.key === ' '){ ev.preventDefault(); C.openEvent(d.e.id); } })
     .on('mouseenter', (ev, d) => { tip.style('display', 'block').html('<div class="small" style="color:#d9b36c">' + esc(C.fmtWhen(d.e, { short: true })) + '</div><strong>' + esc(d.e.title) + '</strong><br>' + C.badge(d.e.status)); })
@@ -167,7 +185,7 @@ let pendingZoom = null;
 C.on('view', ({ view, params }) => {
   if (view !== 'timeline') return;
   init();
-  requestAnimationFrame(() => { W = document.getElementById('tl-chart').clientWidth || W; x0.range([M.left, W - M.right]); zoomTo(params.get('zoom') || pendingZoom || 'all', false); pendingZoom = null; if (params.get('event')) C.openEvent(params.get('event')); });
+  requestAnimationFrame(() => { W = document.getElementById('tl-chart').clientWidth || W; PH = W < 600; M.left = PH ? 104 : 178; x0.range([M.left, W - M.right]); zoomTo(params.get('zoom') || pendingZoom || 'all', false); pendingZoom = null; if (params.get('event')) C.openEvent(params.get('event')); });
 });
 C.on('params', ({ view, params }) => { if (view === 'timeline' && inited){ if (params.get('zoom')) zoomTo(params.get('zoom'), true); if (params.get('event')) C.openEvent(params.get('event')); } });
 })();

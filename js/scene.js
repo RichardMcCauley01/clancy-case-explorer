@@ -409,7 +409,10 @@ function init(){
     S.gl = true;
   } catch (err){ S.gl = false; $('scene-fallback').hidden = false; }
   if (S.gl){
-    renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+    // phones / touch devices: lower pixel ratio (fill-rate is the main GPU cost there)
+    const lowPower = window.matchMedia('(max-width: 760px), (pointer: coarse)').matches;
+    S.pixelRatio = Math.min(window.devicePixelRatio || 1, lowPower ? 1.25 : 2);
+    renderer.setPixelRatio(S.pixelRatio);
     host.appendChild(renderer.domElement);
     scene = new THREE.Scene(); scene.background = new THREE.Color(0x0b0e12); scene.fog = new THREE.Fog(0x0b0e12, 45, 170);
     camera = new THREE.PerspectiveCamera(62, 1, 0.05, 600);
@@ -420,11 +423,33 @@ function init(){
     const resize = () => { const w = host.clientWidth || 800, h = host.clientHeight || 600; renderer.setSize(w, h, false); renderer.domElement.style.width = w + 'px'; renderer.domElement.style.height = h + 'px'; camera.aspect = w / h; camera.updateProjectionMatrix(); if (S.steps.length) frame(0, false, false); };
     if (window.ResizeObserver) new ResizeObserver(resize).observe(host); else window.addEventListener('resize', resize);
     resize();
-    // drag to look around (does not move along the path)
+    // Mouse / pen: drag to look around (does not move along the path).
+    // Touch: a mostly-vertical swipe moves along the sequence like scrolling (swipe up = forward), feeding the same
+    // target q as the mouse wheel, so the same damping and settle-to-event easing apply; release keeps a little
+    // momentum. A mostly-horizontal one-finger drag looks around (yaw).
     let drag = null;
-    renderer.domElement.addEventListener('pointerdown', ev => { drag = { x: ev.clientX, y: ev.clientY, yaw: S.yaw, pitch: S.pitch }; renderer.domElement.setPointerCapture(ev.pointerId); });
-    renderer.domElement.addEventListener('pointermove', ev => { if (!drag) return; S.yaw = drag.yaw + (ev.clientX - drag.x) * 0.004; S.pitch = clamp(drag.pitch + (ev.clientY - drag.y) * 0.003, -0.9, 0.9); });
-    const end = () => { drag = null; };
+    const TOUCH_K = 2.2;                          // scroll-pixels of q per finger pixel (a ~250px swipe is about one step)
+    renderer.domElement.addEventListener('pointerdown', ev => {
+      drag = { id: ev.pointerId, touch: ev.pointerType === 'touch', x: ev.clientX, y: ev.clientY, yaw: S.yaw, pitch: S.pitch, qt: S.qt, mode: ev.pointerType === 'touch' ? null : 'look', hist: [] };
+      renderer.domElement.setPointerCapture(ev.pointerId);
+    });
+    renderer.domElement.addEventListener('pointermove', ev => {
+      if (!drag || ev.pointerId !== drag.id) return;
+      const dx = ev.clientX - drag.x, dy = ev.clientY - drag.y;
+      if (!drag.mode){ if (Math.hypot(dx, dy) < 8) return; drag.mode = Math.abs(dy) > Math.abs(dx) ? 'move' : 'look'; drag.x = ev.clientX; drag.y = ev.clientY; drag.qt = S.qt; if (drag.mode === 'move' && S.nav){ S.qt = S.q; S.nav = null; drag.qt = S.qt; } return; }
+      if (drag.mode === 'look'){ S.yaw = drag.yaw + dx * 0.004; if (!drag.touch) S.pitch = clamp(drag.pitch + dy * 0.003, -0.9, 0.9); return; }
+      S.qt = clamp(drag.qt - dy * TOUCH_K, 0, S.Q);
+      S.lastInput = performance.now(); S.settled = false;
+      drag.hist.push({ t: performance.now(), y: ev.clientY }); if (drag.hist.length > 6) drag.hist.shift();
+    });
+    const end = ev => {
+      if (drag && drag.mode === 'move' && drag.hist.length > 1){
+        const a = drag.hist[0], b = drag.hist[drag.hist.length - 1], dt = b.t - a.t;
+        if (dt > 0 && performance.now() - b.t < 90){ const v = (b.y - a.y) / dt;          // px per ms
+          S.qt = clamp(S.qt - clamp(v * 260 * TOUCH_K, -1100, 1100), 0, S.Q); S.lastInput = performance.now(); S.settled = false; }
+      }
+      drag = null;
+    };
     renderer.domElement.addEventListener('pointerup', end); renderer.domElement.addEventListener('pointercancel', end);
     renderer.domElement.addEventListener('dblclick', () => { S.yaw = S.pitch = 0; });
   }

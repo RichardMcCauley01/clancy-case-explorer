@@ -165,3 +165,99 @@ input[type=search]{background:var(--panel);border:1px solid var(--line2);color:v
 .static-events .meta{font-size:.8rem;color:var(--ink3);margin:2px 0}
 .static-events time{font-family:ui-monospace,Menlo,Consolas,monospace;color:var(--accent)}
 .static-events p{margin:4px 0;color:var(--ink2)}
+
+/* ===== Responsive layer: phones (<=760px) and touch devices. Desktop layout is unchanged. ===== */
+.sheet{display:contents}
+.sheet-handle,.nb-toggle,.filters-toggle,.zctl,.m-only{display:none}
+.hint-touch{display:none}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
+@media (hover:none) and (pointer:coarse){
+  .hint-mouse{display:none} .hint-touch{display:inline}
+  .tl-chart svg{touch-action:pan-y!important}   /* vertical swipe scrolls the page; horizontal drag pans, pinch zooms (d3) */
+  .chip{min-height:34px;padding:5px 11px}
+  .zctl{display:flex}
+}
+@media (max-width:760px){
+  html,body{overflow-x:clip}
+  .zctl{display:flex}
+  .site-header{flex-direction:column;flex-wrap:nowrap;align-items:stretch;gap:2px;padding:8px 12px 0}
+  .brand,.tabs{min-width:0}
+  .kicker{display:none}
+  .site-header h1{font-size:1.14rem;line-height:1.25}
+  .site-header .sub{font-size:.74rem;line-height:1.35;margin:2px 0 4px}
+  .tabs{flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-webkit-overflow-scrolling:touch;margin:0 -12px;padding:0 12px;
+    -webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 26px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 26px),transparent)}
+  .tabs::-webkit-scrollbar{display:none}
+  .tabs a{flex:none;white-space:nowrap;min-height:44px;display:flex;align-items:center;padding:0 13px;font-size:.88rem}
+  .neutral-bar{position:relative;flex-direction:column;flex-wrap:nowrap;gap:3px;padding:6px 12px;font-size:.76rem;line-height:1.45}
+  .neutral-bar > span:first-child{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;padding-right:58px}
+  .neutral-bar.open > span:first-child{display:block;padding-right:58px}
+  .neutral-bar .help-inline{white-space:normal}
+  .nb-toggle{display:block;position:absolute;right:8px;top:5px;min-height:32px;min-width:48px;padding:2px 8px;font:inherit;font-size:.74rem;color:var(--ink2);background:var(--panel2);border:1px solid var(--line2);border-radius:6px;cursor:pointer}
+  .badge{white-space:normal}
+  .page{padding:14px 12px}
+  .page h2{font-size:1.3rem}
+  .small{font-size:.84rem}
+  .cw{padding:10px;align-items:safe center;overflow-y:auto}
+  .cw-box{width:100%;padding:16px}
+  .cw-box h2{font-size:1.2rem;margin-bottom:.4em}
+  .cw-box p{margin:.5em 0}
+  .cw-box .btn{min-height:44px;width:100%}
+  input[type=search]{min-width:0;width:100%;font-size:16px}  /* 16px avoids iOS zoom-on-focus */
+  .tl-toolbar{padding:8px 12px 4px;gap:8px}
+  .tl-toolbar .grp{width:100%;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:2px}
+  .tl-toolbar .grp::-webkit-scrollbar{display:none}
+  .tl-toolbar .grp > *{flex:none}
+  .tl-toolbar .grp input[type=search]{flex:1 1 auto;min-width:120px}
+  .tl-toolbar .btn{white-space:nowrap;min-height:38px}
+  .filters-toggle{display:inline-flex;align-items:center}
+  .tl-filters{display:none;padding:4px 12px 10px;gap:10px}
+  .tl-filters.open{display:flex}
+  .zctl{gap:6px;padding:4px 12px 0;align-items:center}
+  .zctl .btn{min-width:44px;min-height:40px;font-size:1rem}
+  .zctl .lbl{margin-right:2px}
+  .tl-toolbar .grp:first-child > .lbl{display:none}
+  .tl-chart{margin:8px 8px 0}
+  .tl-note{padding:6px 12px}
+  .tl-list{margin:6px 8px 0}
+  .tl-list .row{grid-template-columns:1fr;gap:4px}
+  .media-inline{margin:14px 8px 24px;padding:10px 12px}
+  .media-grid,.media-grid.compact{grid-template-columns:1fr}
+  .media-filter{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-bottom:4px}
+  .media-filter::-webkit-scrollbar{display:none}
+  .media-filter > *{flex:none}
+  .drawer{width:100vw;border-left:0;padding:10px 16px 48px}
+  .drawer-close{min-width:44px;min-height:44px;font-size:1.1rem}
+  .about-grid{grid-template-columns:1fr;gap:8px}
+  .site-footer{padding:12px}
+  /* HUD (scene / map) */
+  .scene-hud,.map-hud{left:6px;right:6px;bottom:6px}
+  .hud-row{padding:6px 8px;gap:6px}
+  .hud-row > .btn{min-width:44px;min-height:44px;font-size:1rem;padding:0}
+  .hud-time{font-size:.8rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .hud-hint{font-size:.7rem;line-height:1.3}
+  .progress{height:12px;margin:7px 0}
+  .ticks span{top:-4px;height:20px}
+  /* bottom sheet (step / scenario panels) */
+  .sheet{display:flex;flex-direction:column;position:absolute;left:6px;right:6px;bottom:calc(var(--hud-h,84px) + 12px);z-index:520;
+    background:rgba(18,22,28,.97);border:1px solid var(--line2);border-radius:12px;box-shadow:var(--shadow);max-height:min(34%,176px);transition:max-height .25s ease}
+  .sheet.expanded{max-height:calc(100% - var(--hud-h,84px) - 76px)}
+  .sheet-handle{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;flex:none;width:100%;min-height:36px;padding:6px 0 3px;background:none;border:0;color:var(--ink3);font:inherit;font-size:.7rem;cursor:pointer;touch-action:none}
+  .sheet-handle::before{content:"";display:block;width:40px;height:4px;border-radius:2px;background:#56606d}
+  .sheet > aside{position:static!important;width:auto!important;max-height:none!important;flex:1 1 auto;min-height:0;overflow:auto;border:0!important;box-shadow:none!important;background:transparent!important;border-radius:0;padding:0 14px 12px!important;inset:auto!important}
+  .sheet:not(.expanded) > aside{overflow:hidden;-webkit-mask-image:linear-gradient(#000 62%,transparent);mask-image:linear-gradient(#000 62%,transparent)}
+  .sheet:has(> aside[hidden]){display:none}
+}
+/* Clancy: phone layout for the 3D scene */
+@media (max-width:760px){
+  #scene-wrap{min-height:440px}
+  #scene-canvas canvas{touch-action:none}
+  .pov-switch{top:8px;left:6px;right:6px;flex-direction:row;flex-wrap:nowrap;gap:5px}
+  .pov-switch button{flex:1 1 0;min-width:0;min-height:40px;padding:5px 6px;font-size:.76rem;line-height:1.2;text-align:center}
+  .pov-switch button small{display:none}
+  .pov-switch .dot{margin-right:4px}
+  .scene-banner{top:56px;left:6px;right:6px;width:auto;transform:none;white-space:normal;text-align:center;font-size:.68rem;line-height:1.35;padding:3px 8px}
+  .legend-3d{display:none}
+}
+/* tablets (761-900px): keep the point-of-view row clear of the two-line banner */
+@media (min-width:761px) and (max-width:900px){ .pov-switch{top:66px} .scene-panel{max-height:34%} }
